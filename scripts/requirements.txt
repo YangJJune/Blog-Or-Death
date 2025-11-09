@@ -1,0 +1,3 @@
+﻿discord.py>=2.0.0
+httpx>=0.25.0
+beautifulsoup4>=4.0.0
