@@ -14,7 +14,7 @@ except ValueError:
     print("❌ FORUM_CHANNEL_ID가 올바른 숫자 형식이 아닙니다.", file=sys.stderr)
     sys.exit(1)
 
-OUTPUT_DIR = os.path.join(os.getcwd(), 'data')
+OUTPUT_DIR = os.path.join(os.getcwd(), 'public') 
 OUTPUT_FILE = os.path.join(OUTPUT_DIR, 'forum-posts.json')
 
 # (Goal 2) 웹사이트 스크래핑 시 봇 차단을 피하기 위한 User-Agent
