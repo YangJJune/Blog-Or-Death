@@ -12,7 +12,6 @@ function App() {
   // 👇 실제 데이터를 저장할 상태(state)를 정의합니다.
   const [posts, setPosts] = useState<Post[]>([]);
   const [isLoading, setIsLoading] = useState(true);
-  const [error, setError] = useState<string | null>(null);
 
   // 컴포넌트가 처음 마운트될 때 (로딩될 때) 데이터를 가져옵니다.
   useEffect(() => {
@@ -27,8 +26,8 @@ function App() {
 
         const data: Post[] = await response.json();
         setPosts(data); // 상태 업데이트
-      } catch (error) {
-        console.error("로컬 JSON 파일을 불러오는 중 오류 발생:", error);
+      } catch (e) {
+        alert("로컬 JSON 파일을 불러오는 중 오류 발생:" + e);
       } finally {
         setIsLoading(false);
       }
@@ -48,7 +47,6 @@ function App() {
   };
 
   if (isLoading) return <p>게시글을 불러오는 중입니다...</p>;
-  if (error) return <p>오류: {error}</p>;
 
   return (
     <div className={`app ${theme}-mode`}>
