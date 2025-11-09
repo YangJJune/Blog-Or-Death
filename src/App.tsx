@@ -18,7 +18,7 @@ function App() {
     const fetchData = async () => {
       try {
         // public/data/posts.json 경로로 fetch 요청
-        const response = await fetch("/forum-posts.json");
+        const response = await fetch("./forum-posts.json");
 
         if (!response.ok) {
           throw new Error(`데이터 로딩 실패: ${response.status}`);
