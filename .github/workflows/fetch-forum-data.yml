@@ -1,0 +1,66 @@
+name: Fetch Forum Data
+
+on:
+  schedule:
+    # 하루 2회 실행: 오전 9시(한국 시간 기준 18시 UTC) 및 오후 9시(한국 시간 기준 12시 UTC)
+    - cron: "0 4 * * *" # 매일 04:00 UTC (한국 시간 13:00)
+    - cron: "0 16 * * *" # 매일 16:00 UTC (한국 시간 01:00)
+  workflow_dispatch: # 수동 실행 가능
+
+jobs:
+  fetch-data:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # 파일 커밋을 위한 쓰기 권한
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install Python dependencies
+        run: |
+          cd scripts
+          pip install -r requirements.txt
+
+      - name: Run fetch_forum_data.py
+        env:
+          DISCORD_TOKEN: ${{ secrets.DISCORD_TOKEN }}
+          DISCORD_CHANNEL_ID: ${{ secrets.DISCORD_CHANNEL_ID }}
+        run: |
+          cd scripts
+          python fetch_forum_data.py
+
+      - name: Move forum-posts.json to public folder
+        run: |
+          # scripts/public/forum-posts.json을 프로젝트 루트의 public 폴더로 이동
+          mkdir -p public
+          if [ -f scripts/public/forum-posts.json ]; then
+            mv scripts/public/forum-posts.json public/forum-posts.json
+            echo "✅ forum-posts.json moved to public/"
+          else
+            echo "❌ forum-posts.json not found in scripts/public/"
+            exit 1
+          fi
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add public/forum-posts.json
+
+          # 변경사항이 있을 때만 커밋
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: update forum-posts.json [skip ci]"
+            git push
+            echo "✅ Changes committed and pushed"
+          fi
