@@ -30,7 +30,10 @@ jobs:
         
       - name: Prepare 404.html for SPA
         run: cp ./dist/index.html ./dist/404.html
-
+        
+      - name: Create .nojekyll file
+        run: touch ./dist/.nojekyll
+        
       - name: Check dist contents
         run: ls -R ./dist
         
@@ -38,5 +41,5 @@ jobs:
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist  # Vite의 기본 빌드 디렉토리
+          publish_dir: ${{ github.workspace }}/dist  # Vite의 기본 빌드 디렉토리
           publish_branch: gh-pages  # GitHub Pages 브랜치
