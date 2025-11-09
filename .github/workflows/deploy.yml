@@ -30,6 +30,9 @@ jobs:
         
       - name: Prepare 404.html for SPA
         run: cp ./dist/index.html ./dist/404.html
+
+      - name: Check dist contents
+        run: ls -R ./dist
         
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
