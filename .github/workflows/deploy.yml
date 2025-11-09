@@ -27,11 +27,13 @@ jobs:
 
       - name: Build React app
         run: npm run build
-
+        
+      - name: Prepare 404.html for SPA
+        run: cp ./dist/index.html ./dist/404.html
+        
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist  # Vite의 기본 빌드 디렉토리
           publish_branch: gh-pages  # GitHub Pages 브랜치
-          cname: # 커스텀 도메인이 있으면 여기에 입력 (예: example.com)
