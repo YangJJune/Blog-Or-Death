@@ -80,13 +80,23 @@
     "createdAt": "2025-11-05T09:01:20.329000+00:00"
   },
   {
+    "id": 1438101032432439316,
+    "title": "타입스크립트를 집합관점에서",
+    "content": "https://medium.com/@nayounsang722/typescript%EC%99%80-%EC%A7%91%ED%95%A9-0147d6d1b24d",
+    "author": "nayounsang",
+    "author_avatar": "https://cdn.discordapp.com/embed/avatars/2.png",
+    "url": "https://medium.com/@nayounsang722/typescript%EC%99%80-%EC%A7%91%ED%95%A9-0147d6d1b24d",
+    "thumbnail": "https://miro.medium.com/v2/resize:fit:1200/1*3x_dchu53BYq0xXCJQSVSw.png",
+    "createdAt": "2025-11-12T09:40:04.757000+00:00"
+  },
+  {
     "id": 1429408659057807420,
     "title": "까면 깔 수록 괴담만 나오는 이미지 경량화 구현",
     "content": "https://velog.io/@ysj7191/까면-깔-수록-괴담만-나오는-이미지-경량화-구현",
     "author": "yangjjune",
     "author_avatar": "https://cdn.discordapp.com/avatars/270850849813561344/a03082fe3b47fdc5b4944118982b4844.png?size=1024",
     "url": "https://velog.io/@ysj7191/까면-깔-수록-괴담만-나오는-이미지-경량화-구현",
-    "thumbnail": "https://cdn.discordapp.com/attachments/1429408659057807420/1429408659351535708/c798844aa612513b.png?ex=6915034d&is=6913b1cd&hm=bd429d1e354b012a83bc37aa531ebfd3e081135ebaeca3aca195618d5f341378&",
+    "thumbnail": "https://cdn.discordapp.com/attachments/1429408659057807420/1429408659351535708/c798844aa612513b.png?ex=6915ac0d&is=69145a8d&hm=3e901d433166cfcdb702f906d6c50551c962b2eaba1e2aa5932a688eaeb7ccae&",
     "createdAt": "2025-10-19T09:59:41.448000+00:00"
   },
   {
