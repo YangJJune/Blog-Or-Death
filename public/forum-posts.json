@@ -40,6 +40,16 @@
     "createdAt": "2025-10-26T14:36:09.068000+00:00"
   },
   {
+    "id": 1437995375762870353,
+    "title": "배포 장애 해결하기",
+    "content": "https://bluesparrow.tistory.com/111",
+    "author": "ji0513ji",
+    "author_avatar": "https://cdn.discordapp.com/avatars/568069533214965760/b459d4fc0011afd1d61ffbb2931d4683.png?size=1024",
+    "url": "https://bluesparrow.tistory.com/111",
+    "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2Fbn1acR%2FdJMcahW3w7c%2FAAAAAAAAAAAAAAAAAAAAAKBpuEebpQSdIgJoNKhkaAKYmQhRZC0XAPgtp7km-Vz9%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1764514799%26allow_ip%3D%26allow_referer%3D%26signature%3Dj2r%252BxhuaAzQ4Didxk4m86mf1lck%253D",
+    "createdAt": "2025-11-12T02:40:14.244000+00:00"
+  },
+  {
     "id": 1431206270773493822,
     "title": "옵시디언 MCP + 클로드 데스크탑으로 데일리 기록 편하게 하기",
     "content": "https://velog.io/@ikseong00/MCP-%EC%98%B5%EC%8B%9C%EB%94%94%EC%96%B8-MCP-Claude-%EC%82%AC%EC%9A%A9%ED%95%B4-%EA%B8%B0%EB%A1%9D-%EC%9E%90%EB%8F%99%ED%99%94%ED%95%98%EA%B8%B0",
@@ -76,7 +86,7 @@
     "author": "yangjjune",
     "author_avatar": "https://cdn.discordapp.com/avatars/270850849813561344/a03082fe3b47fdc5b4944118982b4844.png?size=1024",
     "url": "https://velog.io/@ysj7191/까면-깔-수록-괴담만-나오는-이미지-경량화-구현",
-    "thumbnail": "https://cdn.discordapp.com/attachments/1429408659057807420/1429408659351535708/c798844aa612513b.png?ex=69145a8d&is=6913090d&hm=dab37cb21f955bec3f67fcc8a9a6cebd0b149e78c719b26da79ed9e31c3da68f&",
+    "thumbnail": "https://cdn.discordapp.com/attachments/1429408659057807420/1429408659351535708/c798844aa612513b.png?ex=6915034d&is=6913b1cd&hm=bd429d1e354b012a83bc37aa531ebfd3e081135ebaeca3aca195618d5f341378&",
     "createdAt": "2025-10-19T09:59:41.448000+00:00"
   },
   {
@@ -196,7 +206,7 @@
     "author": "yangjjune",
     "author_avatar": "https://cdn.discordapp.com/avatars/270850849813561344/a03082fe3b47fdc5b4944118982b4844.png?size=1024",
     "url": "https://velog.io/@ysj7191/HTTP-HTTPS-이해를-해보자",
-    "thumbnail": "https://cdn.discordapp.com/attachments/1432019192764170320/1432019194094030978/HTTP_HTTPS.png?ex=69149f4d&is=69134dcd&hm=be8e67e034d3efa4f81740fe26cda13edf7a240e74bca9f12c8b8b34a8cd2349&",
+    "thumbnail": "https://cdn.discordapp.com/attachments/1432019192764170320/1432019194094030978/HTTP_HTTPS.png?ex=6915480d&is=6913f68d&hm=72f98a89b67420365488d2310ee0f79576fecc3ef42df6aadb95728a157d9799&",
     "createdAt": "2025-10-26T14:53:01.185000+00:00"
   },
   {
@@ -616,7 +626,7 @@
     "author": "yangjjune",
     "author_avatar": "https://cdn.discordapp.com/avatars/270850849813561344/a03082fe3b47fdc5b4944118982b4844.png?size=1024",
     "url": "https://velog.io/@ysj7191/털려버린-레디스-외양간이라도-고쳐주기",
-    "thumbnail": "https://cdn.discordapp.com/attachments/1419294333827289288/1419294334125346846/Group_1437.png?ex=691478da&is=6913275a&hm=8e34135422e2c91de83f81bf1a1299b6815196ffc8c66268cf9c19f3ed7c0efd&",
+    "thumbnail": "https://cdn.discordapp.com/attachments/1419294333827289288/1419294334125346846/Group_1437.png?ex=6915219a&is=6913d01a&hm=e65c0a43942f8aa3f51fe5fc1c9961cf91e3bb2ddd5e115eca2a1cf11b71b28e&",
     "createdAt": "2025-09-21T12:08:58.398000+00:00"
   },
   {
@@ -686,7 +696,7 @@
     "author": "gichul_0602",
     "author_avatar": "https://cdn.discordapp.com/avatars/647996025591824384/0ce2f0dbdf76197b30c7975d48cfea8b.png?size=1024",
     "url": "https://gichullimitless.github.io/posts/AI-IsMyFriend/",
-    "thumbnail": "https://cdn.discordapp.com/attachments/1418588206382715092/1418588206785495090/20250919-thumbnail_.png?ex=69148a38&is=691338b8&hm=8b73a2426d23c202cba7f92b702733e70005b15749f34f2463dc4a6af54e045d&",
+    "thumbnail": "https://cdn.discordapp.com/attachments/1418588206382715092/1418588206785495090/20250919-thumbnail_.png?ex=691532f8&is=6913e178&hm=85a24c2f9360a8b22e663dedda230627800fdd5502abad747fb5c2610a8f0fed&",
     "createdAt": "2025-09-19T13:23:04.496000+00:00"
   },
   {
