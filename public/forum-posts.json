@@ -20,16 +20,6 @@
     "createdAt": "2025-11-09T12:43:44.508000+00:00"
   },
   {
-    "id": 1427549826806976644,
-    "title": "[Android] 레이아웃 범위표시로 앱이 어떤 프레임워크로 만들어졌는지 확인하는 방법",
-    "content": "https://velog.io/@mraz3068/How-To-Identify-App-Framework-By-Layout-Bounds",
-    "author": "easyhooon_dev",
-    "author_avatar": "https://cdn.discordapp.com/avatars/406710225832247299/8cbfd72e43e517c4be9430514ce7d952.png?size=1024",
-    "url": "https://velog.io/@mraz3068/How-To-Identify-App-Framework-By-Layout-Bounds",
-    "thumbnail": "https://velog.velcdn.com/images/mraz3068/post/63db16d0-8b14-41ae-b4cd-da19ba3673e9/image.png",
-    "createdAt": "2025-10-14T06:53:21.304000+00:00"
-  },
-  {
     "id": 1432014947637788672,
     "title": "Jekyll 블로그 커스터마이징 깔짝 해보기!",
     "content": "블로그 커스터마이징 하려다가 삽질했던.. 그럼에도 얻었던 인사이트? 간단히 적어 보았읍니다😳\n\nhttps://gichullimitless.github.io/posts/jekyll-blog-customize/",
@@ -96,7 +86,7 @@
     "author": "yangjjune",
     "author_avatar": "https://cdn.discordapp.com/avatars/270850849813561344/a03082fe3b47fdc5b4944118982b4844.png?size=1024",
     "url": "https://velog.io/@ysj7191/까면-깔-수록-괴담만-나오는-이미지-경량화-구현",
-    "thumbnail": "https://cdn.discordapp.com/attachments/1429408659057807420/1429408659351535708/c798844aa612513b.png?ex=691654cd&is=6915034d&hm=a351740ae7db1bc39285f98c357f42e51dd18fba1fdfa4426eb04aec43445fbe&",
+    "thumbnail": "https://cdn.discordapp.com/attachments/1429408659057807420/1429408659351535708/c798844aa612513b.png?ex=6916fd8d&is=6915ac0d&hm=688bfcf9291e2f8782d95a272d4ed885d82e3d17c4a1c443906f560948e5d769&",
     "createdAt": "2025-10-19T09:59:41.448000+00:00"
   },
   {
@@ -216,7 +206,7 @@
     "author": "yangjjune",
     "author_avatar": "https://cdn.discordapp.com/avatars/270850849813561344/a03082fe3b47fdc5b4944118982b4844.png?size=1024",
     "url": "https://velog.io/@ysj7191/HTTP-HTTPS-이해를-해보자",
-    "thumbnail": "https://cdn.discordapp.com/attachments/1432019192764170320/1432019194094030978/HTTP_HTTPS.png?ex=6916998d&is=6915480d&hm=a8184e018c6203c81f753d2317abfa03593370e6153d545c14fc7cacebb0b172&",
+    "thumbnail": "https://cdn.discordapp.com/attachments/1432019192764170320/1432019194094030978/HTTP_HTTPS.png?ex=6917424d&is=6915f0cd&hm=76e6c71ba83f11f24cc78560bbb397494e5d0da66a9521ce12b88b62ee26b243&",
     "createdAt": "2025-10-26T14:53:01.185000+00:00"
   },
   {
@@ -296,7 +286,7 @@
     "author": "yangjjune",
     "author_avatar": "https://cdn.discordapp.com/avatars/270850849813561344/a03082fe3b47fdc5b4944118982b4844.png?size=1024",
     "url": "https://velog.io/@ysj7191/Github-Actions의-workflow가-다른-workflow를-트리거하지-못할-때",
-    "thumbnail": "https://cdn.discordapp.com/attachments/1438371676533555351/1438371677015904356/cab3a8be0cdfd66e.png?ex=6916a383&is=69155203&hm=9cd6d4dd51229a42ce8d468479102a96227e2e3dd46071dd29b47c0dc8a49b6a&",
+    "thumbnail": "https://cdn.discordapp.com/attachments/1438371676533555351/1438371677015904356/cab3a8be0cdfd66e.png?ex=69174c43&is=6915fac3&hm=480cb95084af38c6c3286cf1690fe68f05d626ee807fe31fb371cf442727b086&",
     "createdAt": "2025-11-13T03:35:31.339000+00:00"
   },
   {
@@ -378,6 +368,16 @@
     "url": "https://yunjeongiya.github.io/frontend/react/2025/10/26/hybrid-tree-search-ui-pattern/",
     "thumbnail": null,
     "createdAt": "2025-10-26T13:32:54.600000+00:00"
+  },
+  {
+    "id": 1427549826806976644,
+    "title": "[Android] 레이아웃 범위표시로 앱이 어떤 프레임워크로 만들어졌는지 확인하는 방법",
+    "content": "https://velog.io/@mraz3068/How-To-Identify-App-Framework-By-Layout-Bounds",
+    "author": "easyhooon_dev",
+    "author_avatar": "https://cdn.discordapp.com/avatars/406710225832247299/8cbfd72e43e517c4be9430514ce7d952.png?size=1024",
+    "url": "https://velog.io/@mraz3068/How-To-Identify-App-Framework-By-Layout-Bounds",
+    "thumbnail": "https://velog.velcdn.com/images/mraz3068/post/63db16d0-8b14-41ae-b4cd-da19ba3673e9/image.png",
+    "createdAt": "2025-10-14T06:53:21.304000+00:00"
   },
   {
     "id": 1426946556485177405,
@@ -656,7 +656,7 @@
     "author": "yangjjune",
     "author_avatar": "https://cdn.discordapp.com/avatars/270850849813561344/a03082fe3b47fdc5b4944118982b4844.png?size=1024",
     "url": "https://velog.io/@ysj7191/털려버린-레디스-외양간이라도-고쳐주기",
-    "thumbnail": "https://cdn.discordapp.com/attachments/1419294333827289288/1419294334125346846/Group_1437.png?ex=6916731a&is=6915219a&hm=752ed116510f019f7cb2c260242c716b4c413dabda3aee63180d8a9aab22dc12&",
+    "thumbnail": "https://cdn.discordapp.com/attachments/1419294333827289288/1419294334125346846/Group_1437.png?ex=69171bda&is=6915ca5a&hm=44a0a0b310201d072c6d0b5bfd59924c3a45e93c4ce9d75cbca7cdd4e2992d0d&",
     "createdAt": "2025-09-21T12:08:58.398000+00:00"
   },
   {
@@ -726,7 +726,7 @@
     "author": "gichul_0602",
     "author_avatar": "https://cdn.discordapp.com/avatars/647996025591824384/0ce2f0dbdf76197b30c7975d48cfea8b.png?size=1024",
     "url": "https://gichullimitless.github.io/posts/AI-IsMyFriend/",
-    "thumbnail": "https://cdn.discordapp.com/attachments/1418588206382715092/1418588206785495090/20250919-thumbnail_.png?ex=69168478&is=691532f8&hm=b9f6e6cb12702db9019d1ed772a058f90c66297cb1f6189ad70c4e2e8bb937ae&",
+    "thumbnail": "https://cdn.discordapp.com/attachments/1418588206382715092/1418588206785495090/20250919-thumbnail_.png?ex=69172d38&is=6915dbb8&hm=1192b2a9674fee9634ad57fa240786464f9a012b659f1005a15d37cf1221439a&",
     "createdAt": "2025-09-19T13:23:04.496000+00:00"
   },
   {
