@@ -86,7 +86,7 @@
     "author": "yangjjune",
     "author_avatar": "https://cdn.discordapp.com/avatars/270850849813561344/a03082fe3b47fdc5b4944118982b4844.png?size=1024",
     "url": "https://velog.io/@ysj7191/까면-깔-수록-괴담만-나오는-이미지-경량화-구현",
-    "thumbnail": "https://cdn.discordapp.com/attachments/1429408659057807420/1429408659351535708/c798844aa612513b.png?ex=6917a64d&is=691654cd&hm=4c340dab7837792078111ebda88695875195518d5e45c15c03ea81c5d4a7f6f7&",
+    "thumbnail": "https://cdn.discordapp.com/attachments/1429408659057807420/1429408659351535708/c798844aa612513b.png?ex=69184f0d&is=6916fd8d&hm=0aad459468af45f0c7e5a29b811f4294dbd18a41f07164d29ff349403428940a&",
     "createdAt": "2025-10-19T09:59:41.448000+00:00"
   },
   {
@@ -190,6 +190,16 @@
     "createdAt": "2025-11-09T15:11:02.775000+00:00"
   },
   {
+    "id": 1438780563988156459,
+    "title": "예쁘게 설계하지 말까? 정규화된 구조가 항상 정답은 아닌 이유",
+    "content": "https://medium.com/@yunjeongiya/database-design-debate-normalization-vs-pragmatism-a-real-decision-process-607e04d702d2?postPublishedType=repub\n\n미디엄 들어가면 한국어 글 링크도 있습니닷 ^오^",
+    "author": "yunjeongiya",
+    "author_avatar": "https://cdn.discordapp.com/avatars/699255927575937116/6565e77acc28dd5cefbaea979ab88ea7.png?size=1024",
+    "url": "https://medium.com/@yunjeongiya/database-design-debate-normalization-vs-pragmatism-a-real-decision-process-607e04d702d2?postPublishedType=repub",
+    "thumbnail": "https://miro.medium.com/v2/resize:fit:1024/1*nNsBjMAW2eWff8xp4B0ZeA.jpeg",
+    "createdAt": "2025-11-14T06:40:17.705000+00:00"
+  },
+  {
     "id": 1431837731134374069,
     "title": "[Compose] retain API",
     "content": "https://velog.io/@mraz3068/Compose-Retain-API",
@@ -206,7 +216,7 @@
     "author": "yangjjune",
     "author_avatar": "https://cdn.discordapp.com/avatars/270850849813561344/a03082fe3b47fdc5b4944118982b4844.png?size=1024",
     "url": "https://velog.io/@ysj7191/HTTP-HTTPS-이해를-해보자",
-    "thumbnail": "https://cdn.discordapp.com/attachments/1432019192764170320/1432019194094030978/HTTP_HTTPS.png?ex=6917eb0d&is=6916998d&hm=706f440f47783ba34a0d8ce479ffc3fdfa4195be85feac8daf66f9559007d258&",
+    "thumbnail": "https://cdn.discordapp.com/attachments/1432019192764170320/1432019194094030978/HTTP_HTTPS.png?ex=691893cd&is=6917424d&hm=c4512da009ea6ae62743eec5df2d93da34ea24b53b31a7008dcd2f4c356f7c8a&",
     "createdAt": "2025-10-26T14:53:01.185000+00:00"
   },
   {
@@ -286,7 +296,7 @@
     "author": "yangjjune",
     "author_avatar": "https://cdn.discordapp.com/avatars/270850849813561344/a03082fe3b47fdc5b4944118982b4844.png?size=1024",
     "url": "https://velog.io/@ysj7191/Github-Actions의-workflow가-다른-workflow를-트리거하지-못할-때",
-    "thumbnail": "https://cdn.discordapp.com/attachments/1438371676533555351/1438371677015904356/cab3a8be0cdfd66e.png?ex=6917f503&is=6916a383&hm=04b2e2fc599621c94a233e386517cdcb3f6e1a0bd4c42a15a1525914de7ba516&",
+    "thumbnail": "https://cdn.discordapp.com/attachments/1438371676533555351/1438371677015904356/cab3a8be0cdfd66e.png?ex=69189dc3&is=69174c43&hm=284e5a55aa7b995f39a7cb37409dd74459e32b78a445d367d3f0ac6cdc938d35&",
     "createdAt": "2025-11-13T03:35:31.339000+00:00"
   },
   {
@@ -656,7 +666,7 @@
     "author": "yangjjune",
     "author_avatar": "https://cdn.discordapp.com/avatars/270850849813561344/a03082fe3b47fdc5b4944118982b4844.png?size=1024",
     "url": "https://velog.io/@ysj7191/털려버린-레디스-외양간이라도-고쳐주기",
-    "thumbnail": "https://cdn.discordapp.com/attachments/1419294333827289288/1419294334125346846/Group_1437.png?ex=6917c49a&is=6916731a&hm=ce44ab780e1cff782e1ee5cc2cc934c42f7567e372e9ef1c6d3a059fc328324d&",
+    "thumbnail": "https://cdn.discordapp.com/attachments/1419294333827289288/1419294334125346846/Group_1437.png?ex=69186d5a&is=69171bda&hm=f708d3afe2700a08fb212326a62eabf5031acb210b1de46fcbc4b68adda20061&",
     "createdAt": "2025-09-21T12:08:58.398000+00:00"
   },
   {
@@ -726,7 +736,7 @@
     "author": "gichul_0602",
     "author_avatar": "https://cdn.discordapp.com/avatars/647996025591824384/0ce2f0dbdf76197b30c7975d48cfea8b.png?size=1024",
     "url": "https://gichullimitless.github.io/posts/AI-IsMyFriend/",
-    "thumbnail": "https://cdn.discordapp.com/attachments/1418588206382715092/1418588206785495090/20250919-thumbnail_.png?ex=6917d5f8&is=69168478&hm=27888a78b736bffe3f76238c21d89f55922ee8960ae94b60b207f7696b57ea86&",
+    "thumbnail": "https://cdn.discordapp.com/attachments/1418588206382715092/1418588206785495090/20250919-thumbnail_.png?ex=69187eb8&is=69172d38&hm=3149a3bf9dcd063102436ca7c0d4a42adbf8f2a2fd5fb02b9c50afb00491f482&",
     "createdAt": "2025-09-19T13:23:04.496000+00:00"
   },
   {
