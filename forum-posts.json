@@ -86,18 +86,8 @@
     "author": "yangjjune",
     "author_avatar": "https://cdn.discordapp.com/avatars/270850849813561344/a03082fe3b47fdc5b4944118982b4844.png?size=1024",
     "url": "https://velog.io/@ysj7191/까면-깔-수록-괴담만-나오는-이미지-경량화-구현",
-    "thumbnail": "https://cdn.discordapp.com/attachments/1429408659057807420/1429408659351535708/c798844aa612513b.png?ex=6918f7cd&is=6917a64d&hm=cdfe0423fb1a3e409c2dacc91fc92f36054234efc7add03b9517748614e37ff5&",
+    "thumbnail": "https://cdn.discordapp.com/attachments/1429408659057807420/1429408659351535708/c798844aa612513b.png?ex=6919a08d&is=69184f0d&hm=6ead0a914566eba770fcb060055849fc8bacec78ffbce244b8e38cb4ff5a9cad&",
     "createdAt": "2025-10-19T09:59:41.448000+00:00"
-  },
-  {
-    "id": 1428031067717242971,
-    "title": "코딩 테스트 잘보는 법",
-    "content": "https://medium.com/@nayounsang722/%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9E%98%EB%B3%B4%EB%8A%94-%EB%B2%95-4dcfea5902ef\n\n그래도 많이 풀고 알고리즘 배우는건 중요합니다",
-    "author": "nayounsang",
-    "author_avatar": "https://cdn.discordapp.com/embed/avatars/2.png",
-    "url": "https://medium.com/@nayounsang722/%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9E%98%EB%B3%B4%EB%8A%94-%EB%B2%95-4dcfea5902ef",
-    "thumbnail": "https://miro.medium.com/v2/resize:fit:1200/1*lHZ5x0SMXhoAxu2H736cLQ.png",
-    "createdAt": "2025-10-15T14:45:38.078000+00:00"
   },
   {
     "id": 1431948071213989918,
@@ -108,6 +98,16 @@
     "url": "https://sh1220.tistory.com/6",
     "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2Fmbb1I%2FdJMb89dJMCI%2FAAAAAAAAAAAAAAAAAAAAAP8qiYLVidky5Ew9rtowuNuTtRrJ-IVE5SZH8H4XQv6K%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1764514799%26allow_ip%3D%26allow_referer%3D%26signature%3DfDDEW%252BOUKguZgFOHF2XtElsPkKM%253D",
     "createdAt": "2025-10-26T10:10:24.486000+00:00"
+  },
+  {
+    "id": 1439164059965591563,
+    "title": "NestJS 백엔드와 EC2 인스턴스로 개인 사이트에 RDS 연결하기",
+    "content": "https://www.crohasang.com/post/16",
+    "author": "mooseem",
+    "author_avatar": "https://cdn.discordapp.com/avatars/682868389991284756/2823b5e34adc56b4cb17877950cb0c1d.png?size=1024",
+    "url": "https://www.crohasang.com/post/16",
+    "thumbnail": null,
+    "createdAt": "2025-11-15T08:04:10.271000+00:00"
   },
   {
     "id": 1436613848353214514,
@@ -216,7 +216,7 @@
     "author": "yangjjune",
     "author_avatar": "https://cdn.discordapp.com/avatars/270850849813561344/a03082fe3b47fdc5b4944118982b4844.png?size=1024",
     "url": "https://velog.io/@ysj7191/HTTP-HTTPS-이해를-해보자",
-    "thumbnail": "https://cdn.discordapp.com/attachments/1432019192764170320/1432019194094030978/HTTP_HTTPS.png?ex=69193c8d&is=6917eb0d&hm=b6221529a97931856ab810593cbc607f56f9765e2fafbc5634e82207c62d2fa3&",
+    "thumbnail": "https://cdn.discordapp.com/attachments/1432019192764170320/1432019194094030978/HTTP_HTTPS.png?ex=6919e54d&is=691893cd&hm=3b6b6ab1fcce0194b217a1b92302d38f20643f1266600d4a2bd5cc2cc9de9cf1&",
     "createdAt": "2025-10-26T14:53:01.185000+00:00"
   },
   {
@@ -296,7 +296,7 @@
     "author": "yangjjune",
     "author_avatar": "https://cdn.discordapp.com/avatars/270850849813561344/a03082fe3b47fdc5b4944118982b4844.png?size=1024",
     "url": "https://velog.io/@ysj7191/Github-Actions의-workflow가-다른-workflow를-트리거하지-못할-때",
-    "thumbnail": "https://cdn.discordapp.com/attachments/1438371676533555351/1438371677015904356/cab3a8be0cdfd66e.png?ex=69194683&is=6917f503&hm=4027e1e79002e3f668b1d4dfc7592ad5baa463ec4d11cba2c5681bfb88da45dd&",
+    "thumbnail": "https://cdn.discordapp.com/attachments/1438371676533555351/1438371677015904356/cab3a8be0cdfd66e.png?ex=6919ef43&is=69189dc3&hm=3f17ce8ffcdee4185374fbadbcf0ef4b1df2b371bceaef9d7d7ad344b332d5a4&",
     "createdAt": "2025-11-13T03:35:31.339000+00:00"
   },
   {
@@ -378,6 +378,16 @@
     "url": "https://yunjeongiya.github.io/frontend/react/2025/10/26/hybrid-tree-search-ui-pattern/",
     "thumbnail": null,
     "createdAt": "2025-10-26T13:32:54.600000+00:00"
+  },
+  {
+    "id": 1428031067717242971,
+    "title": "코딩 테스트 잘보는 법",
+    "content": "https://medium.com/@nayounsang722/%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9E%98%EB%B3%B4%EB%8A%94-%EB%B2%95-4dcfea5902ef\n\n그래도 많이 풀고 알고리즘 배우는건 중요합니다",
+    "author": "nayounsang",
+    "author_avatar": "https://cdn.discordapp.com/embed/avatars/2.png",
+    "url": "https://medium.com/@nayounsang722/%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9E%98%EB%B3%B4%EB%8A%94-%EB%B2%95-4dcfea5902ef",
+    "thumbnail": "https://miro.medium.com/v2/resize:fit:1200/1*lHZ5x0SMXhoAxu2H736cLQ.png",
+    "createdAt": "2025-10-15T14:45:38.078000+00:00"
   },
   {
     "id": 1427549826806976644,
@@ -666,7 +676,7 @@
     "author": "yangjjune",
     "author_avatar": "https://cdn.discordapp.com/avatars/270850849813561344/a03082fe3b47fdc5b4944118982b4844.png?size=1024",
     "url": "https://velog.io/@ysj7191/털려버린-레디스-외양간이라도-고쳐주기",
-    "thumbnail": "https://cdn.discordapp.com/attachments/1419294333827289288/1419294334125346846/Group_1437.png?ex=6919161a&is=6917c49a&hm=0fa48b922442995a3ec82f6079add3d0357f0bb5f042def46201d45436980193&",
+    "thumbnail": "https://cdn.discordapp.com/attachments/1419294333827289288/1419294334125346846/Group_1437.png?ex=6919beda&is=69186d5a&hm=7d4ea8d32137f6d1221c58caa670a5d1a7f5a6a3a0161c7341d8d78e9cb350b7&",
     "createdAt": "2025-09-21T12:08:58.398000+00:00"
   },
   {
@@ -736,7 +746,7 @@
     "author": "gichul_0602",
     "author_avatar": "https://cdn.discordapp.com/avatars/647996025591824384/0ce2f0dbdf76197b30c7975d48cfea8b.png?size=1024",
     "url": "https://gichullimitless.github.io/posts/AI-IsMyFriend/",
-    "thumbnail": "https://cdn.discordapp.com/attachments/1418588206382715092/1418588206785495090/20250919-thumbnail_.png?ex=69192778&is=6917d5f8&hm=c0fed97504696336c90208515c5f9f7d0ddad34900bf46fc8d31ea5eabdc87ec&",
+    "thumbnail": "https://cdn.discordapp.com/attachments/1418588206382715092/1418588206785495090/20250919-thumbnail_.png?ex=6919d038&is=69187eb8&hm=df5d113e3971e73f6b074354932e548cdb16e87b67959a9444a186087797223a&",
     "createdAt": "2025-09-19T13:23:04.496000+00:00"
   },
   {
