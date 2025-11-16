@@ -60,6 +60,16 @@
     "createdAt": "2025-11-02T16:21:39.439000+00:00"
   },
   {
+    "id": 1439561052416114699,
+    "title": "Batch 메시징 설계기",
+    "content": "https://onaeonae1.tistory.com/106",
+    "author": ".baekjongwon",
+    "author_avatar": "https://cdn.discordapp.com/avatars/367522644893106176/ff70eeb6cf325843e99c8b6570ad1266.png?size=1024",
+    "url": "https://onaeonae1.tistory.com/106",
+    "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+    "createdAt": "2025-11-16T10:21:40.647000+00:00"
+  },
+  {
     "id": 1435554568015581185,
     "title": "오픈소스 기여하는 법",
     "content": "https://medium.com/@nayounsang722/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%96%B4%EB%96%BB%EA%B2%8C-%EA%B8%B0%EC%97%AC%ED%95%98%EB%82%98%EC%9A%94-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EA%B8%B0%EC%97%AC%ED%95%98%EB%8A%94-%EB%B2%95-793a21ebf2f7\n\n다른 기술적 주제쓰려다가, 이게 더 도움이 될듯 싶어서!!",
@@ -86,8 +96,18 @@
     "author": "yangjjune",
     "author_avatar": "https://cdn.discordapp.com/avatars/270850849813561344/a03082fe3b47fdc5b4944118982b4844.png?size=1024",
     "url": "https://velog.io/@ysj7191/까면-깔-수록-괴담만-나오는-이미지-경량화-구현",
-    "thumbnail": "https://cdn.discordapp.com/attachments/1429408659057807420/1429408659351535708/c798844aa612513b.png?ex=691a494d&is=6918f7cd&hm=b61da62d5a867ee8887796ef13467b2a5d01199a9cea301b6c55eb42db09bbcc&",
+    "thumbnail": "https://cdn.discordapp.com/attachments/1429408659057807420/1429408659351535708/c798844aa612513b.png?ex=691af20d&is=6919a08d&hm=2f1da67c93fc33124947d867f9226beeebde6505f05fc7ac75c8124358f9dfee&",
     "createdAt": "2025-10-19T09:59:41.448000+00:00"
+  },
+  {
+    "id": 1439596452580950070,
+    "title": "Nginx Minimal Image 보안 자동 분석",
+    "content": "https://sh1220.tistory.com/8",
+    "author": "goodday1220",
+    "author_avatar": "https://cdn.discordapp.com/avatars/297979038012538900/debf5c32ee17ede80ca2d7a5a2a9e06e.png?size=1024",
+    "url": "https://sh1220.tistory.com/8",
+    "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FbAGCP4%2FdJMcacVMDEt%2FAAAAAAAAAAAAAAAAAAAAAGZ_VYXcomJ6k_PKwyQv7LBJONLG4l0krMkhKNewXKA4%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1764514799%26allow_ip%3D%26allow_referer%3D%26signature%3DoLMfoucRCjS0rOl%252FfVWXtFk76SI%253D",
+    "createdAt": "2025-11-16T12:42:20.704000+00:00"
   },
   {
     "id": 1431948071213989918,
@@ -108,6 +128,16 @@
     "url": "https://www.crohasang.com/post/16",
     "thumbnail": null,
     "createdAt": "2025-11-15T08:04:10.271000+00:00"
+  },
+  {
+    "id": 1439534899894943774,
+    "title": "하나의 계정, 여러 학원, 다양한 역할: CheckUS 멀티테넌시 아키텍처 (1/5)",
+    "content": "https://medium.com/@yunjeongiya/one-account-multiple-schools-multiple-roles-checkus-multi-tenant-architecture-series-1-5-495545de360a\n\n열심히 썼어여",
+    "author": "yunjeongiya",
+    "author_avatar": "https://cdn.discordapp.com/avatars/699255927575937116/6565e77acc28dd5cefbaea979ab88ea7.png?size=1024",
+    "url": "https://medium.com/@yunjeongiya/one-account-multiple-schools-multiple-roles-checkus-multi-tenant-architecture-series-1-5-495545de360a",
+    "thumbnail": "https://miro.medium.com/v2/resize:fit:1024/1*DrJDm9tT0msUf43Wsx5WjQ.jpeg",
+    "createdAt": "2025-11-16T08:37:45.400000+00:00"
   },
   {
     "id": 1436613848353214514,
@@ -216,8 +246,18 @@
     "author": "yangjjune",
     "author_avatar": "https://cdn.discordapp.com/avatars/270850849813561344/a03082fe3b47fdc5b4944118982b4844.png?size=1024",
     "url": "https://velog.io/@ysj7191/HTTP-HTTPS-이해를-해보자",
-    "thumbnail": "https://cdn.discordapp.com/attachments/1432019192764170320/1432019194094030978/HTTP_HTTPS.png?ex=691a8e0d&is=69193c8d&hm=7e199ec0ce6aa1fe70c627e609f1aa03fd77c1d0aeff0883b5da473e377a44c2&",
+    "thumbnail": "https://cdn.discordapp.com/attachments/1432019192764170320/1432019194094030978/HTTP_HTTPS.png?ex=691b36cd&is=6919e54d&hm=625c3f44fc3b107c5e3066515a9e22f73770e19550d9758fb650895e55f1223b&",
     "createdAt": "2025-10-26T14:53:01.185000+00:00"
+  },
+  {
+    "id": 1439628031558815917,
+    "title": "Compose 이펙트 및 이펙트 핸들러",
+    "content": "https://velog.io/@mraz3068/Compose-Effects-and-Effect-Handlers",
+    "author": "easyhooon_dev",
+    "author_avatar": "https://cdn.discordapp.com/avatars/406710225832247299/8cbfd72e43e517c4be9430514ce7d952.png?size=1024",
+    "url": "https://velog.io/@mraz3068/Compose-Effects-and-Effect-Handlers",
+    "thumbnail": "https://velog.velcdn.com/images/mraz3068/post/fd8a77f3-d365-4176-b52e-8044ece351c4/image.png",
+    "createdAt": "2025-11-16T14:47:49.719000+00:00"
   },
   {
     "id": 1438210308622782474,
@@ -296,7 +336,7 @@
     "author": "yangjjune",
     "author_avatar": "https://cdn.discordapp.com/avatars/270850849813561344/a03082fe3b47fdc5b4944118982b4844.png?size=1024",
     "url": "https://velog.io/@ysj7191/Github-Actions의-workflow가-다른-workflow를-트리거하지-못할-때",
-    "thumbnail": "https://cdn.discordapp.com/attachments/1438371676533555351/1438371677015904356/cab3a8be0cdfd66e.png?ex=691a9803&is=69194683&hm=e93ef98456025e2b183f4bf957acec066a34a29ea5a7d1da8b8d816dd1f50bd1&",
+    "thumbnail": "https://cdn.discordapp.com/attachments/1438371676533555351/1438371677015904356/cab3a8be0cdfd66e.png?ex=691b40c3&is=6919ef43&hm=d98d7a09ce21745fd323cf47eb9cabd9ac5590e4c098b5eb4b2efe8ccf42eab2&",
     "createdAt": "2025-11-13T03:35:31.339000+00:00"
   },
   {
@@ -378,6 +418,16 @@
     "url": "https://yunjeongiya.github.io/frontend/react/2025/10/26/hybrid-tree-search-ui-pattern/",
     "thumbnail": null,
     "createdAt": "2025-10-26T13:32:54.600000+00:00"
+  },
+  {
+    "id": 1439630765196316784,
+    "title": "내가 한동안 잊고 살았던 것 - \"생각하는 인내심\"",
+    "content": "https://gichullimitless.github.io/posts/get-back-engineering-mind/\n\n이번주에 스스로 가장 반성했던 내용에 대해서 회고를 해보았습니다...",
+    "author": "gichul_0602",
+    "author_avatar": "https://cdn.discordapp.com/avatars/647996025591824384/0ce2f0dbdf76197b30c7975d48cfea8b.png?size=1024",
+    "url": "https://gichullimitless.github.io/posts/get-back-engineering-mind/",
+    "thumbnail": "https://gichulLimitLess.github.io/../assets/img/posting-images/20251116/20251116-thumbnail.JPG",
+    "createdAt": "2025-11-16T14:58:41.469000+00:00"
   },
   {
     "id": 1428031067717242971,
@@ -676,7 +726,7 @@
     "author": "yangjjune",
     "author_avatar": "https://cdn.discordapp.com/avatars/270850849813561344/a03082fe3b47fdc5b4944118982b4844.png?size=1024",
     "url": "https://velog.io/@ysj7191/털려버린-레디스-외양간이라도-고쳐주기",
-    "thumbnail": "https://cdn.discordapp.com/attachments/1419294333827289288/1419294334125346846/Group_1437.png?ex=691a679a&is=6919161a&hm=6ebc6a135b22d62d64d04e16c52c8422f9f8da3ec06b2bf0ff9a5aebf58ac082&",
+    "thumbnail": "https://cdn.discordapp.com/attachments/1419294333827289288/1419294334125346846/Group_1437.png?ex=691b105a&is=6919beda&hm=3b1fad40e56ec5117abd2f1e7b5f76c79a8f72d55f084632e42ff52a3f6fa54e&",
     "createdAt": "2025-09-21T12:08:58.398000+00:00"
   },
   {
@@ -746,7 +796,7 @@
     "author": "gichul_0602",
     "author_avatar": "https://cdn.discordapp.com/avatars/647996025591824384/0ce2f0dbdf76197b30c7975d48cfea8b.png?size=1024",
     "url": "https://gichullimitless.github.io/posts/AI-IsMyFriend/",
-    "thumbnail": "https://cdn.discordapp.com/attachments/1418588206382715092/1418588206785495090/20250919-thumbnail_.png?ex=691a78f8&is=69192778&hm=f698d79e40a713ace57c8e8d4c8d87868af826c8653292cf58d0ab5579989cc9&",
+    "thumbnail": "https://cdn.discordapp.com/attachments/1418588206382715092/1418588206785495090/20250919-thumbnail_.png?ex=691b21b8&is=6919d038&hm=f5e97a1956e2ba7372af003daecab6569d36a96dc0331b4aed90ae55439649f4&",
     "createdAt": "2025-09-19T13:23:04.496000+00:00"
   },
   {
