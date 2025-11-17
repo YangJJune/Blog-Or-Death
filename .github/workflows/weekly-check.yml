@@ -1,0 +1,36 @@
+name: Weekly Blog Check
+
+on:
+  schedule:
+    # 매주 월요일 오전 9시 (한국 시간) = UTC 0시
+    - cron: "0 0 * * 1"
+  workflow_dispatch: # 수동 실행 가능
+
+jobs:
+  check-weekly-posts:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install Python dependencies
+        run: |
+          cd scripts
+          pip install -r requirements.txt
+
+      - name: Run weekly check script
+        env:
+          DISCORD_TOKEN: ${{ secrets.DISCORD_TOKEN }}
+          FORUM_CHANNEL_ID: ${{ secrets.FORUM_CHANNEL_ID }}
+          DISCORD_CHANNEL_ID: ${{ secrets.DISCORD_CHANNEL_ID }}
+          TARGET_USERS: ${{ secrets.TARGET_USERS }}
+        run: |
+          cd scripts
+          python weekly_check.py
