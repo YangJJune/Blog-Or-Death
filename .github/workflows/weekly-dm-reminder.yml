@@ -1,0 +1,35 @@
+name: Weekly DM Reminder
+
+on:
+  schedule:
+    # 매주 일요일 오후 12시 (한국 시간) = UTC 3시
+    - cron: "0 3 * * 0"
+  workflow_dispatch: # 수동 실행 가능
+
+jobs:
+  send-dm-reminders:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install Python dependencies
+        run: |
+          cd scripts
+          pip install -r requirements.txt
+
+      - name: Run weekly DM reminder script
+        env:
+          DISCORD_TOKEN: ${{ secrets.DISCORD_TOKEN }}
+          DISCORD_CHANNEL_ID: ${{ secrets.DISCORD_CHANNEL_ID }}
+          TARGET_USERS: ${{ secrets.TARGET_USERS }}
+        run: |
+          cd scripts
+          python weekly_dm_reminder.py
