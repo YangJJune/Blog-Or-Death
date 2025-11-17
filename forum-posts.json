@@ -96,7 +96,7 @@
     "author": "yangjjune",
     "author_avatar": "https://cdn.discordapp.com/avatars/270850849813561344/a03082fe3b47fdc5b4944118982b4844.png?size=1024",
     "url": "https://velog.io/@ysj7191/까면-깔-수록-괴담만-나오는-이미지-경량화-구현",
-    "thumbnail": "https://cdn.discordapp.com/attachments/1429408659057807420/1429408659351535708/c798844aa612513b.png?ex=691b9acd&is=691a494d&hm=f73ae86acfa98411f9db012703411c0555b55e7e65a02f3c3d73f522c7b0a00d&",
+    "thumbnail": "https://cdn.discordapp.com/attachments/1429408659057807420/1429408659351535708/c798844aa612513b.png?ex=691c438d&is=691af20d&hm=59ac3dc9304e04c568ba218626a2957f86b3a3e41ba4f76054dd2cf7e1f158d8&",
     "createdAt": "2025-10-19T09:59:41.448000+00:00"
   },
   {
@@ -148,6 +148,16 @@
     "url": "https://quickchabun.tistory.com/192",
     "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
     "createdAt": "2025-11-08T07:10:32.442000+00:00"
+  },
+  {
+    "id": 1439948326740037755,
+    "title": "멀티테넌시에서 데이터 유출 막는 4-Tier 보안 아키텍처 (2/5)",
+    "content": "https://medium.com/@yunjeongiya/4-tier-security-to-prevent-data-leaks-in-multi-tenancy-820ae704288b",
+    "author": "yunjeongiya",
+    "author_avatar": "https://cdn.discordapp.com/avatars/699255927575937116/6565e77acc28dd5cefbaea979ab88ea7.png?size=1024",
+    "url": "https://medium.com/@yunjeongiya/4-tier-security-to-prevent-data-leaks-in-multi-tenancy-820ae704288b",
+    "thumbnail": "https://miro.medium.com/v2/resize:fit:1024/1*S2u_Y00c1566PYJ_yWs0ew.png",
+    "createdAt": "2025-11-17T12:00:34.041000+00:00"
   },
   {
     "id": 1434546877399040090,
@@ -246,7 +256,7 @@
     "author": "yangjjune",
     "author_avatar": "https://cdn.discordapp.com/avatars/270850849813561344/a03082fe3b47fdc5b4944118982b4844.png?size=1024",
     "url": "https://velog.io/@ysj7191/HTTP-HTTPS-이해를-해보자",
-    "thumbnail": "https://cdn.discordapp.com/attachments/1432019192764170320/1432019194094030978/HTTP_HTTPS.png?ex=691bdf8d&is=691a8e0d&hm=b58678a7683b6414bace7a7a2249a8528d7ff3a31d5cc6787df0f192db66010c&",
+    "thumbnail": "https://cdn.discordapp.com/attachments/1432019192764170320/1432019194094030978/HTTP_HTTPS.png?ex=691c884d&is=691b36cd&hm=7ed5032b11219e1743d7fb392fad378c5a92e9cde7a4dba03c4dbd86015bb463&",
     "createdAt": "2025-10-26T14:53:01.185000+00:00"
   },
   {
@@ -336,18 +346,8 @@
     "author": "yangjjune",
     "author_avatar": "https://cdn.discordapp.com/avatars/270850849813561344/a03082fe3b47fdc5b4944118982b4844.png?size=1024",
     "url": "https://velog.io/@ysj7191/Github-Actions의-workflow가-다른-workflow를-트리거하지-못할-때",
-    "thumbnail": "https://cdn.discordapp.com/attachments/1438371676533555351/1438371677015904356/cab3a8be0cdfd66e.png?ex=691be983&is=691a9803&hm=2106cbfd765f3fb3cf82ce07414efdaee6ca90e36ca0fe09c3c9847a12654b71&",
+    "thumbnail": "https://cdn.discordapp.com/attachments/1438371676533555351/1438371677015904356/cab3a8be0cdfd66e.png?ex=691c9243&is=691b40c3&hm=e7b665ab4d43ca8078a2d3cbfd8b3622887caf3085a90a10357cbb4f694f5cad&",
     "createdAt": "2025-11-13T03:35:31.339000+00:00"
-  },
-  {
-    "id": 1429033278177939547,
-    "title": "모노레포 'common' 프로젝트의 이전 코드가 반영되는 오류 수정 후기",
-    "content": "https://quickchabun.tistory.com/190",
-    "author": "mooseem",
-    "author_avatar": "https://cdn.discordapp.com/avatars/682868389991284756/2823b5e34adc56b4cb17877950cb0c1d.png?size=1024",
-    "url": "https://quickchabun.tistory.com/190",
-    "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
-    "createdAt": "2025-10-18T09:08:03.672000+00:00"
   },
   {
     "id": 1429485302489284710,
@@ -390,16 +390,6 @@
     "createdAt": "2025-10-26T14:18:27.837000+00:00"
   },
   {
-    "id": 1429121512312410265,
-    "title": "프론트엔드 계약직 이후 변화한 나",
-    "content": "https://dev.to/algoorgoal/peuronteuendeu-gyeyagjig-ihu-byeonhwahan-na-2fog",
-    "author": "byeolchan",
-    "author_avatar": "https://cdn.discordapp.com/avatars/344470501810503682/6648290486e043e8f33a8fcac0760159.png?size=1024",
-    "url": "https://dev.to/algoorgoal/peuronteuendeu-gyeyagjig-ihu-byeonhwahan-na-2fog",
-    "thumbnail": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faza1poy1w2h14r6i2ll5.png",
-    "createdAt": "2025-10-18T14:58:40.329000+00:00"
-  },
-  {
     "id": 1437092574073585764,
     "title": "'이 언어'로 코딩테스트 준비하는 취업준비생... 심장병 확률 44%",
     "content": "https://dev.to/algoorgoal/i-eoneoro-kodingteseuteu-junbihaneun-cwieobjunbisaeng-simjangbyeong-hwagryul-44-4mmo",
@@ -428,6 +418,26 @@
     "url": "https://gichullimitless.github.io/posts/get-back-engineering-mind/",
     "thumbnail": "https://gichulLimitLess.github.io/../assets/img/posting-images/20251116/20251116-thumbnail.JPG",
     "createdAt": "2025-11-16T14:58:41.469000+00:00"
+  },
+  {
+    "id": 1429121512312410265,
+    "title": "프론트엔드 계약직 이후 변화한 나",
+    "content": "https://dev.to/algoorgoal/peuronteuendeu-gyeyagjig-ihu-byeonhwahan-na-2fog",
+    "author": "byeolchan",
+    "author_avatar": "https://cdn.discordapp.com/avatars/344470501810503682/6648290486e043e8f33a8fcac0760159.png?size=1024",
+    "url": "https://dev.to/algoorgoal/peuronteuendeu-gyeyagjig-ihu-byeonhwahan-na-2fog",
+    "thumbnail": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faza1poy1w2h14r6i2ll5.png",
+    "createdAt": "2025-10-18T14:58:40.329000+00:00"
+  },
+  {
+    "id": 1429033278177939547,
+    "title": "모노레포 'common' 프로젝트의 이전 코드가 반영되는 오류 수정 후기",
+    "content": "https://quickchabun.tistory.com/190",
+    "author": "mooseem",
+    "author_avatar": "https://cdn.discordapp.com/avatars/682868389991284756/2823b5e34adc56b4cb17877950cb0c1d.png?size=1024",
+    "url": "https://quickchabun.tistory.com/190",
+    "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+    "createdAt": "2025-10-18T09:08:03.672000+00:00"
   },
   {
     "id": 1428031067717242971,
@@ -726,7 +736,7 @@
     "author": "yangjjune",
     "author_avatar": "https://cdn.discordapp.com/avatars/270850849813561344/a03082fe3b47fdc5b4944118982b4844.png?size=1024",
     "url": "https://velog.io/@ysj7191/털려버린-레디스-외양간이라도-고쳐주기",
-    "thumbnail": "https://cdn.discordapp.com/attachments/1419294333827289288/1419294334125346846/Group_1437.png?ex=691bb91a&is=691a679a&hm=b0ddc6cce273f98604c03296d33047f5cac00943d1bceb644385aa315f9837fb&",
+    "thumbnail": "https://cdn.discordapp.com/attachments/1419294333827289288/1419294334125346846/Group_1437.png?ex=691c61da&is=691b105a&hm=80f55c8ce448cbed60640d7c39b775b99b45d13568d8d9061d7ded8a2badab9d&",
     "createdAt": "2025-09-21T12:08:58.398000+00:00"
   },
   {
@@ -796,7 +806,7 @@
     "author": "gichul_0602",
     "author_avatar": "https://cdn.discordapp.com/avatars/647996025591824384/0ce2f0dbdf76197b30c7975d48cfea8b.png?size=1024",
     "url": "https://gichullimitless.github.io/posts/AI-IsMyFriend/",
-    "thumbnail": "https://cdn.discordapp.com/attachments/1418588206382715092/1418588206785495090/20250919-thumbnail_.png?ex=691bca78&is=691a78f8&hm=0e3b8eb2c39ada12416506bd26c6e1fb2641d975f58172c7747249cc5b41c0ec&",
+    "thumbnail": "https://cdn.discordapp.com/attachments/1418588206382715092/1418588206785495090/20250919-thumbnail_.png?ex=691c7338&is=691b21b8&hm=49470f6caf72ed5002ee422bcdb7c7aaf7ba4ba1e83e11a69d9aaa059be34279&",
     "createdAt": "2025-09-19T13:23:04.496000+00:00"
   },
   {
