@@ -312,8 +312,8 @@ async def run_weekly_check():
 
     # 환경 변수 확인
     discord_token = os.getenv("DISCORD_TOKEN")
-    forum_channel_id_str = os.getenv("FORUM_CHANNEL_ID")
-    notification_channel_id_str = os.getenv("DISCORD_CHANNEL_ID")
+    forum_channel_id_str = os.getenv("DISCORD_CHANNEL_ID")
+    notification_channel_id_str = os.getenv("DISCORD_NOTI_CHANNEL_ID")
     target_users_str = os.getenv("TARGET_USERS")
     
 
