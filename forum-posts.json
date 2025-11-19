@@ -16,7 +16,7 @@
     "author": "yangjjune",
     "author_avatar": "https://cdn.discordapp.com/avatars/270850849813561344/a03082fe3b47fdc5b4944118982b4844.png?size=1024",
     "url": "https://velog.io/@ysj7191/액세스-토큰-LocalStorage에-저장하면-안-되는-이유",
-    "thumbnail": "https://cdn.discordapp.com/attachments/1440259437469241396/1440259520344358962/Frame_9_2.png?ex=691e2a74&is=691cd8f4&hm=2fe53be5f3520fdcfd4fb3c42e0d81c9cc2c5080be5c0e47b46d9e158a9543f7&",
+    "thumbnail": "https://cdn.discordapp.com/attachments/1440259437469241396/1440259520344358962/Frame_9_2.png?ex=691ed334&is=691d81b4&hm=2e12accefd844c83dec1f44bb4cfcc9bcb5dc0a409e4446250635c5992ba8dae&",
     "createdAt": "2025-11-18T08:36:48.619000+00:00"
   },
   {
@@ -98,6 +98,16 @@
     "url": "https://medium.com/@nayounsang722/typescript%EC%99%80-%EC%A7%91%ED%95%A9-0147d6d1b24d",
     "thumbnail": "https://miro.medium.com/v2/resize:fit:1200/1*3x_dchu53BYq0xXCJQSVSw.png",
     "createdAt": "2025-11-12T09:40:04.757000+00:00"
+  },
+  {
+    "id": 1440592179146784788,
+    "title": "jwt 토큰 관리하는 법",
+    "content": "https://medium.com/@nayounsang722/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EC%95%8C%EC%95%84%EC%95%BC%ED%95%A0-jwt-%ED%86%A0%ED%81%B0-%EA%B4%80%EB%A6%AC-3acc02529d90?postPublishedType=initial\n\n<@270850849813561344> 겹쳤다ㅋㅋㅋㅋ",
+    "author": "nayounsang",
+    "author_avatar": "https://cdn.discordapp.com/embed/avatars/2.png",
+    "url": "https://medium.com/@nayounsang722/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EC%95%8C%EC%95%84%EC%95%BC%ED%95%A0-jwt-%ED%86%A0%ED%81%B0-%EA%B4%80%EB%A6%AC-3acc02529d90?postPublishedType=initial",
+    "thumbnail": "https://miro.medium.com/v2/resize:fit:1024/1*nL4jo7JOQD4lTgKPOnw0IA.png",
+    "createdAt": "2025-11-19T06:39:00.417000+00:00"
   },
   {
     "id": 1439596452580950070,
@@ -256,7 +266,7 @@
     "author": "yangjjune",
     "author_avatar": "https://cdn.discordapp.com/avatars/270850849813561344/a03082fe3b47fdc5b4944118982b4844.png?size=1024",
     "url": "https://velog.io/@ysj7191/HTTP-HTTPS-이해를-해보자",
-    "thumbnail": "https://cdn.discordapp.com/attachments/1432019192764170320/1432019194094030978/HTTP_HTTPS.png?ex=691e828d&is=691d310d&hm=e53e1ba652233946b3361c8dd31706b212d692e4971930446c784e03cff5f045&",
+    "thumbnail": "https://cdn.discordapp.com/attachments/1432019192764170320/1432019194094030978/HTTP_HTTPS.png?ex=691f2b4d&is=691dd9cd&hm=c11f6ec7d57a11ecf30bb710e02f35351a46ad43467298988e7cde6363c430ac&",
     "createdAt": "2025-10-26T14:53:01.185000+00:00"
   },
   {
@@ -330,23 +340,13 @@
     "createdAt": "2025-10-20T02:25:00.847000+00:00"
   },
   {
-    "id": 1429805184909050017,
-    "title": "Agentic AI 후기 3편 : 실험적으로 알아낸 Claude Code 활용 극대화 전략 5가지",
-    "content": "https://turtle-hwan.tistory.com/entry/Agentic-AI-%ED%9B%84%EA%B8%B0-3%ED%8E%B8-%EC%8B%A4%ED%97%98%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%95%8C%EC%95%84%EB%82%B8-Claude-Code-%ED%99%9C%EC%9A%A9-%EA%B7%B9%EB%8C%80%ED%99%94-%EC%A0%84%EB%9E%B5-5%EA%B0%80%EC%A7%80",
-    "author": "turtlehwan",
-    "author_avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
-    "url": "https://turtle-hwan.tistory.com/entry/Agentic-AI-%ED%9B%84%EA%B8%B0-3%ED%8E%B8-%EC%8B%A4%ED%97%98%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%95%8C%EC%95%84%EB%82%B8-Claude-Code-%ED%99%9C%EC%9A%A9-%EA%B7%B9%EB%8C%80%ED%99%94-%EC%A0%84%EB%9E%B5-5%EA%B0%80%EC%A7%80",
-    "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FqnpWp%2FdJMb9jtSclP%2FAAAAAAAAAAAAAAAAAAAAAEHMYcUWpn8V8UCoecMW4Yi5W9B5OxLwtKoZQ_cPt6uA%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1764514799%26allow_ip%3D%26allow_referer%3D%26signature%3Djo9br%252BRCe4oVU595q5fRWKVruf8%253D",
-    "createdAt": "2025-10-20T12:15:20.578000+00:00"
-  },
-  {
     "id": 1438371676533555351,
     "title": "Github Actions의 workflow가 다른 workflow를 트리거하지 못할 때",
     "content": "https://velog.io/@ysj7191/Github-Actions의-workflow가-다른-workflow를-트리거하지-못할-때",
     "author": "yangjjune",
     "author_avatar": "https://cdn.discordapp.com/avatars/270850849813561344/a03082fe3b47fdc5b4944118982b4844.png?size=1024",
     "url": "https://velog.io/@ysj7191/Github-Actions의-workflow가-다른-workflow를-트리거하지-못할-때",
-    "thumbnail": "https://cdn.discordapp.com/attachments/1438371676533555351/1438371677015904356/cab3a8be0cdfd66e.png?ex=691e8c83&is=691d3b03&hm=221d90c7fe6bd4683902a8c3b61f6313a24ea3f2974ea4f2ca6ffda1c9cdc5de&",
+    "thumbnail": "https://cdn.discordapp.com/attachments/1438371676533555351/1438371677015904356/cab3a8be0cdfd66e.png?ex=691f3543&is=691de3c3&hm=d4ee854d92b10f9a9ffc72c038ffc2de211f8995d2cdfa3b3adf7a38df1fcf8a&",
     "createdAt": "2025-11-13T03:35:31.339000+00:00"
   },
   {
@@ -410,6 +410,16 @@
     "createdAt": "2025-11-16T14:58:41.469000+00:00"
   },
   {
+    "id": 1429805184909050017,
+    "title": "Agentic AI 후기 3편 : 실험적으로 알아낸 Claude Code 활용 극대화 전략 5가지",
+    "content": "https://turtle-hwan.tistory.com/entry/Agentic-AI-%ED%9B%84%EA%B8%B0-3%ED%8E%B8-%EC%8B%A4%ED%97%98%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%95%8C%EC%95%84%EB%82%B8-Claude-Code-%ED%99%9C%EC%9A%A9-%EA%B7%B9%EB%8C%80%ED%99%94-%EC%A0%84%EB%9E%B5-5%EA%B0%80%EC%A7%80",
+    "author": "turtlehwan",
+    "author_avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+    "url": "https://turtle-hwan.tistory.com/entry/Agentic-AI-%ED%9B%84%EA%B8%B0-3%ED%8E%B8-%EC%8B%A4%ED%97%98%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%95%8C%EC%95%84%EB%82%B8-Claude-Code-%ED%99%9C%EC%9A%A9-%EA%B7%B9%EB%8C%80%ED%99%94-%EC%A0%84%EB%9E%B5-5%EA%B0%80%EC%A7%80",
+    "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FqnpWp%2FdJMb9jtSclP%2FAAAAAAAAAAAAAAAAAAAAAEHMYcUWpn8V8UCoecMW4Yi5W9B5OxLwtKoZQ_cPt6uA%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1764514799%26allow_ip%3D%26allow_referer%3D%26signature%3Djo9br%252BRCe4oVU595q5fRWKVruf8%253D",
+    "createdAt": "2025-10-20T12:15:20.578000+00:00"
+  },
+  {
     "id": 1429485302489284710,
     "title": "Agentic AI 후기 2편 : Claude Code 한 달 사용 패턴 분석",
     "content": "https://turtle-hwan.tistory.com/entry/Agent-AI-%ED%9B%84%EA%B8%B0-2%ED%8E%B8-Claude-Code-%ED%95%9C-%EB%8B%AC-%EC%82%AC%EC%9A%A9-%ED%8C%A8%ED%84%B4-%EB%B6%84%EC%84%9D",
@@ -426,7 +436,7 @@
     "author": "yangjjune",
     "author_avatar": "https://cdn.discordapp.com/avatars/270850849813561344/a03082fe3b47fdc5b4944118982b4844.png?size=1024",
     "url": "https://velog.io/@ysj7191/까면-깔-수록-괴담만-나오는-이미지-경량화-구현",
-    "thumbnail": "https://cdn.discordapp.com/attachments/1429408659057807420/1429408659351535708/c798844aa612513b.png?ex=691e3dcd&is=691cec4d&hm=8ad88657fd7d7ae1a7206b6bf1b9ae822293ecacb3f747fcef4d1c1f3c7d6b6b&",
+    "thumbnail": "https://cdn.discordapp.com/attachments/1429408659057807420/1429408659351535708/c798844aa612513b.png?ex=691ee68d&is=691d950d&hm=2d5a077e451ba052732adfa3d70e214d93e47c7835c7e29b1126bcfaa934c164&",
     "createdAt": "2025-10-19T09:59:41.448000+00:00"
   },
   {
@@ -746,7 +756,7 @@
     "author": "yangjjune",
     "author_avatar": "https://cdn.discordapp.com/avatars/270850849813561344/a03082fe3b47fdc5b4944118982b4844.png?size=1024",
     "url": "https://velog.io/@ysj7191/털려버린-레디스-외양간이라도-고쳐주기",
-    "thumbnail": "https://cdn.discordapp.com/attachments/1419294333827289288/1419294334125346846/Group_1437.png?ex=691e5c1a&is=691d0a9a&hm=e5e383ecbb2ba7a8fa5d1db4b9344fced08cecb7da715513dbc5348246e3179c&",
+    "thumbnail": "https://cdn.discordapp.com/attachments/1419294333827289288/1419294334125346846/Group_1437.png?ex=691f04da&is=691db35a&hm=dc04ffebbba9c19bc9f76cb10a1e3ea0a2cf88af81071c4ce08f8680640fd231&",
     "createdAt": "2025-09-21T12:08:58.398000+00:00"
   },
   {
@@ -816,7 +826,7 @@
     "author": "gichul_0602",
     "author_avatar": "https://cdn.discordapp.com/avatars/647996025591824384/0ce2f0dbdf76197b30c7975d48cfea8b.png?size=1024",
     "url": "https://gichullimitless.github.io/posts/AI-IsMyFriend/",
-    "thumbnail": "https://cdn.discordapp.com/attachments/1418588206382715092/1418588206785495090/20250919-thumbnail_.png?ex=691e6d78&is=691d1bf8&hm=6ed4d5f28aaa97217d1a4cd44f5fc9aca45ecaa6c39e1d072e5eb39ef588776b&",
+    "thumbnail": "https://cdn.discordapp.com/attachments/1418588206382715092/1418588206785495090/20250919-thumbnail_.png?ex=691f1638&is=691dc4b8&hm=a2e84c67e3a4150b22cd69d529b0b40558a99a24fccfbcfef7eee4c737600e9e&",
     "createdAt": "2025-09-19T13:23:04.496000+00:00"
   },
   {
