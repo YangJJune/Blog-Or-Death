@@ -16,7 +16,7 @@
     "author": "yangjjune",
     "author_avatar": "https://cdn.discordapp.com/avatars/270850849813561344/a03082fe3b47fdc5b4944118982b4844.png?size=1024",
     "url": "https://velog.io/@ysj7191/액세스-토큰-LocalStorage에-저장하면-안-되는-이유",
-    "thumbnail": "https://cdn.discordapp.com/attachments/1440259437469241396/1440259520344358962/Frame_9_2.png?ex=692024b4&is=691ed334&hm=fa301611b695d1274d7721b663793d5bfd5057dd79ab7ff444b1ec1ee89a1d58&",
+    "thumbnail": "https://cdn.discordapp.com/attachments/1440259437469241396/1440259520344358962/Frame_9_2.png?ex=6920cd74&is=691f7bf4&hm=322700570835f8a4880dd65635fb495d63a987403325c395a8f168fe34d3625d&",
     "createdAt": "2025-11-18T08:36:48.619000+00:00"
   },
   {
@@ -86,7 +86,7 @@
     "author": "nayounsang",
     "author_avatar": "https://cdn.discordapp.com/embed/avatars/2.png",
     "url": "https://medium.com/@nayounsang722/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%96%B4%EB%96%BB%EA%B2%8C-%EA%B8%B0%EC%97%AC%ED%95%98%EB%82%98%EC%9A%94-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EA%B8%B0%EC%97%AC%ED%95%98%EB%8A%94-%EB%B2%95-793a21ebf2f7",
-    "thumbnail": "https://miro.medium.com/v2/da:true/resize:fit:938/0*fp-wztmkJSFJ_Lte",
+    "thumbnail": null,
     "createdAt": "2025-11-05T09:01:20.329000+00:00"
   },
   {
@@ -96,7 +96,7 @@
     "author": "nayounsang",
     "author_avatar": "https://cdn.discordapp.com/embed/avatars/2.png",
     "url": "https://medium.com/@nayounsang722/typescript%EC%99%80-%EC%A7%91%ED%95%A9-0147d6d1b24d",
-    "thumbnail": "https://miro.medium.com/v2/resize:fit:1200/1*3x_dchu53BYq0xXCJQSVSw.png",
+    "thumbnail": null,
     "createdAt": "2025-11-12T09:40:04.757000+00:00"
   },
   {
@@ -106,7 +106,7 @@
     "author": "nayounsang",
     "author_avatar": "https://cdn.discordapp.com/embed/avatars/2.png",
     "url": "https://medium.com/@nayounsang722/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EC%95%8C%EC%95%84%EC%95%BC%ED%95%A0-jwt-%ED%86%A0%ED%81%B0-%EA%B4%80%EB%A6%AC-3acc02529d90?postPublishedType=initial",
-    "thumbnail": "https://miro.medium.com/v2/resize:fit:1024/1*nL4jo7JOQD4lTgKPOnw0IA.png",
+    "thumbnail": null,
     "createdAt": "2025-11-19T06:39:00.417000+00:00"
   },
   {
@@ -146,7 +146,7 @@
     "author": "yunjeongiya",
     "author_avatar": "https://cdn.discordapp.com/avatars/699255927575937116/6565e77acc28dd5cefbaea979ab88ea7.png?size=1024",
     "url": "https://medium.com/@yunjeongiya/one-account-multiple-schools-multiple-roles-checkus-multi-tenant-architecture-series-1-5-495545de360a",
-    "thumbnail": "https://miro.medium.com/v2/resize:fit:1024/1*DrJDm9tT0msUf43Wsx5WjQ.jpeg",
+    "thumbnail": null,
     "createdAt": "2025-11-16T08:37:45.400000+00:00"
   },
   {
@@ -166,7 +166,7 @@
     "author": "yunjeongiya",
     "author_avatar": "https://cdn.discordapp.com/avatars/699255927575937116/6565e77acc28dd5cefbaea979ab88ea7.png?size=1024",
     "url": "https://medium.com/@yunjeongiya/4-tier-security-to-prevent-data-leaks-in-multi-tenancy-820ae704288b",
-    "thumbnail": "https://miro.medium.com/v2/resize:fit:1024/1*S2u_Y00c1566PYJ_yWs0ew.png",
+    "thumbnail": null,
     "createdAt": "2025-11-17T12:00:34.041000+00:00"
   },
   {
@@ -236,7 +236,7 @@
     "author": "yunjeongiya",
     "author_avatar": "https://cdn.discordapp.com/avatars/699255927575937116/6565e77acc28dd5cefbaea979ab88ea7.png?size=1024",
     "url": "https://medium.com/@yunjeongiya/database-design-debate-normalization-vs-pragmatism-a-real-decision-process-607e04d702d2?postPublishedType=repub",
-    "thumbnail": "https://miro.medium.com/v2/resize:fit:1024/1*nNsBjMAW2eWff8xp4B0ZeA.jpeg",
+    "thumbnail": null,
     "createdAt": "2025-11-14T06:40:17.705000+00:00"
   },
   {
@@ -256,7 +256,7 @@
     "author": "yangjjune",
     "author_avatar": "https://cdn.discordapp.com/avatars/270850849813561344/a03082fe3b47fdc5b4944118982b4844.png?size=1024",
     "url": "https://velog.io/@ysj7191/HTTP-HTTPS-이해를-해보자",
-    "thumbnail": "https://cdn.discordapp.com/attachments/1432019192764170320/1432019194094030978/HTTP_HTTPS.png?ex=69207ccd&is=691f2b4d&hm=702854fb7f754b2fbe1575e335b2f1c88d7848de9d4da458593ecf82dd6c8e3d&",
+    "thumbnail": "https://cdn.discordapp.com/attachments/1432019192764170320/1432019194094030978/HTTP_HTTPS.png?ex=6921258d&is=691fd40d&hm=87ce7e1e0cabe71d05c7605a0ca2427f096fbeb03f44068d0ccaee8854066d8c&",
     "createdAt": "2025-10-26T14:53:01.185000+00:00"
   },
   {
@@ -296,7 +296,7 @@
     "author": "nayounsang",
     "author_avatar": "https://cdn.discordapp.com/embed/avatars/2.png",
     "url": "https://medium.com/@nayounsang722/%EB%94%94%EC%8A%A4%ED%86%A0%ED%94%BC%EC%95%84-ai%EC%9D%98-%EB%B0%B0%EB%93%9C-%EC%95%A4%EB%94%A9-%EB%A3%A8%ED%8A%B8-c06fd46c3c51",
-    "thumbnail": "https://miro.medium.com/v2/resize:fit:559/0*_V3fM1AiUfgZe7hB.jpg",
+    "thumbnail": null,
     "createdAt": "2025-10-31T14:42:16.163000+00:00"
   },
   {
@@ -326,7 +326,7 @@
     "author": "yangjjune",
     "author_avatar": "https://cdn.discordapp.com/avatars/270850849813561344/a03082fe3b47fdc5b4944118982b4844.png?size=1024",
     "url": "https://velog.io/@ysj7191/Github-Actions의-workflow가-다른-workflow를-트리거하지-못할-때",
-    "thumbnail": "https://cdn.discordapp.com/attachments/1438371676533555351/1438371677015904356/cab3a8be0cdfd66e.png?ex=692086c3&is=691f3543&hm=18df32cd6125ae2c1089b672b840aa9f23f4d7d2f0ac39ce34598766eed343db&",
+    "thumbnail": "https://cdn.discordapp.com/attachments/1438371676533555351/1438371677015904356/cab3a8be0cdfd66e.png?ex=69212f83&is=691fde03&hm=cbcb25b8eb753b16c357769b67983a1d9f9655314dbb65b39711e659d82e9a44&",
     "createdAt": "2025-11-13T03:35:31.339000+00:00"
   },
   {
@@ -406,7 +406,7 @@
     "author": "nayounsang",
     "author_avatar": "https://cdn.discordapp.com/embed/avatars/2.png",
     "url": "https://medium.com/@nayounsang722/react%EC%9D%98-%EC%83%81%ED%83%9C-%EA%B0%9C%EB%85%90-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%9D%91%EC%9A%A9-09b2feaaf02f",
-    "thumbnail": "https://miro.medium.com/v2/resize:fit:1024/1*vXINnm-RxoDkahkSHSpZGg.png",
+    "thumbnail": null,
     "createdAt": "2025-10-21T12:58:57.647000+00:00"
   },
   {
@@ -436,7 +436,7 @@
     "author": "yangjjune",
     "author_avatar": "https://cdn.discordapp.com/avatars/270850849813561344/a03082fe3b47fdc5b4944118982b4844.png?size=1024",
     "url": "https://velog.io/@ysj7191/까면-깔-수록-괴담만-나오는-이미지-경량화-구현",
-    "thumbnail": "https://cdn.discordapp.com/attachments/1429408659057807420/1429408659351535708/c798844aa612513b.png?ex=6920380d&is=691ee68d&hm=7487438c95c6035ad686f5fcf910f85d02b4bcd188c2a203dc16c23c9f904c3b&",
+    "thumbnail": "https://cdn.discordapp.com/attachments/1429408659057807420/1429408659351535708/c798844aa612513b.png?ex=6920e0cd&is=691f8f4d&hm=3f914a89464b2727443d147bd65417a89aa9859c8946aa08cef12e0c9da3ab20&",
     "createdAt": "2025-10-19T09:59:41.448000+00:00"
   },
   {
@@ -466,7 +466,7 @@
     "author": "nayounsang",
     "author_avatar": "https://cdn.discordapp.com/embed/avatars/2.png",
     "url": "https://medium.com/@nayounsang722/%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9E%98%EB%B3%B4%EB%8A%94-%EB%B2%95-4dcfea5902ef",
-    "thumbnail": "https://miro.medium.com/v2/resize:fit:1200/1*lHZ5x0SMXhoAxu2H736cLQ.png",
+    "thumbnail": null,
     "createdAt": "2025-10-15T14:45:38.078000+00:00"
   },
   {
@@ -556,7 +556,7 @@
     "author": "nayounsang",
     "author_avatar": "https://cdn.discordapp.com/embed/avatars/2.png",
     "url": "https://medium.com/@nayounsang722/react-19-2-activity-%EC%84%A0%EC%96%B8%ED%98%95-%EC%A1%B0%EA%B1%B4%EB%B6%80-%EB%9E%9C%EB%8D%94%EB%A7%81-59a68e9cf81d",
-    "thumbnail": "https://miro.medium.com/v2/da:true/bc1f8416df0cad099e43cda2872716e5864f18a73bda2a7547ea082aca9b5632",
+    "thumbnail": null,
     "createdAt": "2025-10-08T09:36:55.100000+00:00"
   },
   {
@@ -566,7 +566,7 @@
     "author": "nayounsang",
     "author_avatar": "https://cdn.discordapp.com/embed/avatars/2.png",
     "url": "https://medium.com/@nayounsang722/auto-labeling-github-actions-ca3581977d9e",
-    "thumbnail": "https://miro.medium.com/v2/da:true/bc1f8416df0cad099e43cda2872716e5864f18a73bda2a7547ea082aca9b5632",
+    "thumbnail": null,
     "createdAt": "2025-10-03T09:54:59.725000+00:00"
   },
   {
@@ -636,7 +636,7 @@
     "author": "nayounsang",
     "author_avatar": "https://cdn.discordapp.com/embed/avatars/2.png",
     "url": "https://medium.com/@nayounsang722/%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EB%A3%A8%ED%94%84-610505cd9fbe",
-    "thumbnail": "https://miro.medium.com/v2/da:true/bc1f8416df0cad099e43cda2872716e5864f18a73bda2a7547ea082aca9b5632",
+    "thumbnail": null,
     "createdAt": "2025-10-03T09:07:20.452000+00:00"
   },
   {
@@ -736,7 +736,7 @@
     "author": "nayounsang",
     "author_avatar": "https://cdn.discordapp.com/embed/avatars/2.png",
     "url": "https://medium.com/@nayounsang722/debugging-teams-%EB%B2%88%EC%97%AD-%ED%9B%84%EA%B8%B0-f9c4621f7c22",
-    "thumbnail": "https://miro.medium.com/v2/da:true/bc1f8416df0cad099e43cda2872716e5864f18a73bda2a7547ea082aca9b5632",
+    "thumbnail": null,
     "createdAt": "2025-09-27T10:11:26.693000+00:00"
   },
   {
@@ -746,7 +746,7 @@
     "author": "yunjeongiya",
     "author_avatar": "https://cdn.discordapp.com/avatars/699255927575937116/6565e77acc28dd5cefbaea979ab88ea7.png?size=1024",
     "url": "https://medium.com/@yunjeongiya/the-elusive-claude-file-has-been-unexpectedly-modified-bug-a-workaround-solution-831182038d1d",
-    "thumbnail": "https://miro.medium.com/v2/resize:fit:1200/1*BPfY5nXCsBge-KoLsdbNkA.png",
+    "thumbnail": null,
     "createdAt": "2025-09-27T09:46:27.059000+00:00"
   },
   {
@@ -756,7 +756,7 @@
     "author": "yangjjune",
     "author_avatar": "https://cdn.discordapp.com/avatars/270850849813561344/a03082fe3b47fdc5b4944118982b4844.png?size=1024",
     "url": "https://velog.io/@ysj7191/털려버린-레디스-외양간이라도-고쳐주기",
-    "thumbnail": "https://cdn.discordapp.com/attachments/1419294333827289288/1419294334125346846/Group_1437.png?ex=6920565a&is=691f04da&hm=1d880d1f3dca0baba508a378046c3f6df8939831d3066f75d49c5ec2a01a47de&",
+    "thumbnail": "https://cdn.discordapp.com/attachments/1419294333827289288/1419294334125346846/Group_1437.png?ex=6920ff1a&is=691fad9a&hm=4e79721009af21b86d2cfcee472a51411c9692b5a88a97f37989179f00d8f2e2&",
     "createdAt": "2025-09-21T12:08:58.398000+00:00"
   },
   {
@@ -766,7 +766,7 @@
     "author": "yunjeongiya",
     "author_avatar": "https://cdn.discordapp.com/avatars/699255927575937116/6565e77acc28dd5cefbaea979ab88ea7.png?size=1024",
     "url": "https://medium.com/@yunjeongiya/escaping-the-n-1-hell-in-tree-structures-part-1-bulk-deletion-with-cte-5971fd735574?source=friends_link&sk=101e1815593a7bda85463bd6b831cd9d",
-    "thumbnail": "https://miro.medium.com/v2/resize:fit:1136/1*WYxOQiJNTKh2zOzNQBdAYA.png",
+    "thumbnail": null,
     "createdAt": "2025-09-21T08:47:12.691000+00:00"
   },
   {
@@ -826,7 +826,7 @@
     "author": "gichul_0602",
     "author_avatar": "https://cdn.discordapp.com/avatars/647996025591824384/0ce2f0dbdf76197b30c7975d48cfea8b.png?size=1024",
     "url": "https://gichullimitless.github.io/posts/AI-IsMyFriend/",
-    "thumbnail": "https://cdn.discordapp.com/attachments/1418588206382715092/1418588206785495090/20250919-thumbnail_.png?ex=692067b8&is=691f1638&hm=161ac558cbab9c95c01c1a0248db872153049cb3d4c931791c551a701c64f515&",
+    "thumbnail": "https://cdn.discordapp.com/attachments/1418588206382715092/1418588206785495090/20250919-thumbnail_.png?ex=69211078&is=691fbef8&hm=3d25e1648d96df6a30d43bf00964e7e1cfc7beb748cbec60ee2d7d97d0b0159d&",
     "createdAt": "2025-09-19T13:23:04.496000+00:00"
   },
   {
@@ -846,7 +846,7 @@
     "author": "nayounsang",
     "author_avatar": "https://cdn.discordapp.com/embed/avatars/2.png",
     "url": "https://medium.com/@nayounsang722/%EB%8C%80%EA%B7%9C%EB%AA%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-typescript-eslint%EC%97%90%EC%84%9C-%EB%8F%99%EC%A0%81-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%BC%80%EC%9D%B4%EC%8A%A4%EB%A5%BC-%EB%A7%89%EC%95%84%EB%B3%B4%EC%9E%90-%EB%B6%80%EC%A0%9C-%EB%8C%80%EA%B7%9C%EB%AA%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-lint-rule-%EC%B2%98%EC%9D%8C%EB%B6%99-e9dfff150c1c",
-    "thumbnail": "https://miro.medium.com/v2/resize:fit:684/1*wu5KNyXC1y7NNgRledSARw.png",
+    "thumbnail": null,
     "createdAt": "2025-09-19T07:18:44.619000+00:00"
   },
   {
@@ -876,7 +876,7 @@
     "author": "nayounsang",
     "author_avatar": "https://cdn.discordapp.com/embed/avatars/2.png",
     "url": "https://medium.com/@nayounsang722/번역-npm-debug-및-chalk-패키지-손상-bcba92cfb951",
-    "thumbnail": "https://miro.medium.com/v2/resize:fit:1196/0*apPtxp9xZ22cXKYE.png",
+    "thumbnail": null,
     "createdAt": "2025-09-13T12:39:50.793000+00:00"
   },
   {
@@ -896,7 +896,7 @@
     "author": "yunjeongiya",
     "author_avatar": "https://cdn.discordapp.com/avatars/699255927575937116/6565e77acc28dd5cefbaea979ab88ea7.png?size=1024",
     "url": "https://medium.com/@yunjeongiya/when-ai-mistook-my-test-data-for-ids-the-vibe-coding-trap-c145109dfc41",
-    "thumbnail": "https://miro.medium.com/v2/resize:fit:1200/1*_hi-97VeI_Q5zstJEPqliA.png",
+    "thumbnail": null,
     "createdAt": "2025-09-13T09:01:24.926000+00:00"
   }
 ]
