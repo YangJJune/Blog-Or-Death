@@ -16,7 +16,7 @@
     "author": "yangjjune",
     "author_avatar": "https://cdn.discordapp.com/avatars/270850849813561344/a03082fe3b47fdc5b4944118982b4844.png?size=1024",
     "url": "https://velog.io/@ysj7191/액세스-토큰-LocalStorage에-저장하면-안-되는-이유",
-    "thumbnail": "https://cdn.discordapp.com/attachments/1440259437469241396/1440259520344358962/Frame_9_2.png?ex=69261374&is=6924c1f4&hm=f5bbbe88ade172e021706ada5ab2b1f241519844e0b3dcb61833153cbcf58cba&",
+    "thumbnail": "https://cdn.discordapp.com/attachments/1440259437469241396/1440259520344358962/Frame_9_2.png?ex=6926bc34&is=69256ab4&hm=39e1d2ddd129c83833511d5803533e4ef28ec3795e28e9a776e31a667ba1ac0c&",
     "createdAt": "2025-11-18T08:36:48.619000+00:00"
   },
   {
@@ -24,7 +24,7 @@
     "title": "\"기술은 결국 사람을 향해야 한다\" - 쓰기 편한 걸 만들어야지",
     "content": "아무리 기술력이 좋아도, UX가 좋아야 하는 것 같읍니다.\n\nhttps://gichullimitless.github.io/posts/stop-over-engineering/",
     "author": "gichul_0602",
-    "author_avatar": "https://cdn.discordapp.com/avatars/647996025591824384/0ce2f0dbdf76197b30c7975d48cfea8b.png?size=1024",
+    "author_avatar": "https://cdn.discordapp.com/avatars/647996025591824384/970d62a516f3a9e296734a6564ae04d9.png?size=1024",
     "url": "https://gichullimitless.github.io/posts/stop-over-engineering/",
     "thumbnail": "https://gichulLimitLess.github.io/../assets/img/posting-images/20251109/20251109-thumbnail.jpg",
     "createdAt": "2025-11-09T12:43:44.508000+00:00"
@@ -34,7 +34,7 @@
     "title": "Jekyll 블로그 커스터마이징 깔짝 해보기!",
     "content": "블로그 커스터마이징 하려다가 삽질했던.. 그럼에도 얻었던 인사이트? 간단히 적어 보았읍니다😳\n\nhttps://gichullimitless.github.io/posts/jekyll-blog-customize/",
     "author": "gichul_0602",
-    "author_avatar": "https://cdn.discordapp.com/avatars/647996025591824384/0ce2f0dbdf76197b30c7975d48cfea8b.png?size=1024",
+    "author_avatar": "https://cdn.discordapp.com/avatars/647996025591824384/970d62a516f3a9e296734a6564ae04d9.png?size=1024",
     "url": "https://gichullimitless.github.io/posts/jekyll-blog-customize/",
     "thumbnail": "https://gichulLimitLess.github.io/../assets/img/posting-images/20251026/20251026-thumbnail.jpeg",
     "createdAt": "2025-10-26T14:36:09.068000+00:00"
@@ -58,16 +58,6 @@
     "url": "https://bluesparrow.tistory.com/111",
     "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2Fbn1acR%2FdJMcahW3w7c%2FAAAAAAAAAAAAAAAAAAAAAKBpuEebpQSdIgJoNKhkaAKYmQhRZC0XAPgtp7km-Vz9%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1764514799%26allow_ip%3D%26allow_referer%3D%26signature%3Dj2r%252BxhuaAzQ4Didxk4m86mf1lck%253D",
     "createdAt": "2025-11-12T02:40:14.244000+00:00"
-  },
-  {
-    "id": 1431206270773493822,
-    "title": "옵시디언 MCP + 클로드 데스크탑으로 데일리 기록 편하게 하기",
-    "content": "https://velog.io/@ikseong00/MCP-%EC%98%B5%EC%8B%9C%EB%94%94%EC%96%B8-MCP-Claude-%EC%82%AC%EC%9A%A9%ED%95%B4-%EA%B8%B0%EB%A1%9D-%EC%9E%90%EB%8F%99%ED%99%94%ED%95%98%EA%B8%B0",
-    "author": "ikseongjo",
-    "author_avatar": "https://cdn.discordapp.com/avatars/345205241538674689/68ba93ea2d8b0df2e1ff057f57235389.png?size=1024",
-    "url": "https://velog.io/@ikseong00/MCP-%EC%98%B5%EC%8B%9C%EB%94%94%EC%96%B8-MCP-Claude-%EC%82%AC%EC%9A%A9%ED%95%B4-%EA%B8%B0%EB%A1%9D-%EC%9E%90%EB%8F%99%ED%99%94%ED%95%98%EA%B8%B0",
-    "thumbnail": "https://velog.velcdn.com/images/ikseong00/post/b043e73e-2144-4496-be0f-da318b8a66a8/image.jpg",
-    "createdAt": "2025-10-24T09:02:45.479000+00:00"
   },
   {
     "id": 1434578214197395527,
@@ -130,16 +120,6 @@
     "createdAt": "2025-11-16T12:42:20.704000+00:00"
   },
   {
-    "id": 1431948071213989918,
-    "title": "AWS가 만들어주는 인증/인가, Cognito",
-    "content": "https://sh1220.tistory.com/6",
-    "author": "goodday1220",
-    "author_avatar": "https://cdn.discordapp.com/avatars/297979038012538900/debf5c32ee17ede80ca2d7a5a2a9e06e.png?size=1024",
-    "url": "https://sh1220.tistory.com/6",
-    "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2Fmbb1I%2FdJMb89dJMCI%2FAAAAAAAAAAAAAAAAAAAAAP8qiYLVidky5Ew9rtowuNuTtRrJ-IVE5SZH8H4XQv6K%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1764514799%26allow_ip%3D%26allow_referer%3D%26signature%3DfDDEW%252BOUKguZgFOHF2XtElsPkKM%253D",
-    "createdAt": "2025-10-26T10:10:24.486000+00:00"
-  },
-  {
     "id": 1439164059965591563,
     "title": "NestJS 백엔드와 EC2 인스턴스로 개인 사이트에 RDS 연결하기",
     "content": "https://www.crohasang.com/post/16",
@@ -190,24 +170,24 @@
     "createdAt": "2025-11-02T14:17:08.164000+00:00"
   },
   {
-    "id": 1432008846162788447,
-    "title": "react-simplikit의 유용한 hook들 소개",
-    "content": "https://dev.to/algoorgoal/react-simplikityi-yuyonghan-hookdeul-sogae-41me",
-    "author": "byeolchan",
-    "author_avatar": "https://cdn.discordapp.com/avatars/344470501810503682/6648290486e043e8f33a8fcac0760159.png?size=1024",
-    "url": "https://dev.to/algoorgoal/react-simplikityi-yuyonghan-hookdeul-sogae-41me",
-    "thumbnail": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmc1zlj9iiq99u974ew4y.png",
-    "createdAt": "2025-10-26T14:11:54.363000+00:00"
-  },
-  {
     "id": 1442092568950079569,
     "title": "2025 한이음 드림업 엑스포 후기",
-    "content": "https://velog.io/@ikseong00/2025-ICT-%ED%95%9C%EC%9D%B4%EC%9D%8C-%EB%93%9C%EB%A6%BC%EC%97%85-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%9E%A5%EB%A0%A4%EC%83%81-%EC%88%98%EC%83%81-%ED%9B%84%EA%B8%B0-%ED%95%9C%EC%9D%B4%EC%9D%8C-%EB%93%9C%EB%A6%BC%EC%97%85-%EC%97%91%EC%8A%A4%ED%8F%AC",
+    "content": "https://velog.io/@ikseong00/2025-ICT-한이음-드림업-프로젝트-활동-후기-장려상-수상",
     "author": "ikseongjo",
     "author_avatar": "https://cdn.discordapp.com/avatars/345205241538674689/68ba93ea2d8b0df2e1ff057f57235389.png?size=1024",
-    "url": "https://velog.io/@ikseong00/2025-ICT-%ED%95%9C%EC%9D%B4%EC%9D%8C-%EB%93%9C%EB%A6%BC%EC%97%85-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%9E%A5%EB%A0%A4%EC%83%81-%EC%88%98%EC%83%81-%ED%9B%84%EA%B8%B0-%ED%95%9C%EC%9D%B4%EC%9D%8C-%EB%93%9C%EB%A6%BC%EC%97%85-%EC%97%91%EC%8A%A4%ED%8F%AC",
-    "thumbnail": "https://cdn.discordapp.com/attachments/1442092568950079569/1442092569612783616/KakaoTalk_Photo_2025-11-23-19-00-51.jpeg?ex=6926271d&is=6924d59d&hm=64a752fe74309696748d6c98785217e738db0c513d938d7f03608499749a2f76&",
+    "url": "https://velog.io/@ikseong00/2025-ICT-한이음-드림업-프로젝트-활동-후기-장려상-수상",
+    "thumbnail": "https://cdn.discordapp.com/attachments/1442092568950079569/1442092569612783616/KakaoTalk_Photo_2025-11-23-19-00-51.jpeg?ex=6926cfdd&is=69257e5d&hm=6250b5c5c5305b900127cf82ff5f8998a4b402dd13a08a5b005a19d67a3c7cce&",
     "createdAt": "2025-11-23T10:01:01.222000+00:00"
+  },
+  {
+    "id": 1442800532380057690,
+    "title": "[Kotlin] Array 와 List 의 equality 비교 방법의 차이",
+    "content": "https://velog.io/@ikseong00/Kotlin-List-vs-Array-equals",
+    "author": "ikseongjo",
+    "author_avatar": "https://cdn.discordapp.com/avatars/345205241538674689/68ba93ea2d8b0df2e1ff057f57235389.png?size=1024",
+    "url": "https://velog.io/@ikseong00/Kotlin-List-vs-Array-equals",
+    "thumbnail": "https://images.velog.io/velog.png",
+    "createdAt": "2025-11-25T08:54:12.857000+00:00"
   },
   {
     "id": 1437093963952554076,
@@ -266,7 +246,7 @@
     "author": "yangjjune",
     "author_avatar": "https://cdn.discordapp.com/avatars/270850849813561344/a03082fe3b47fdc5b4944118982b4844.png?size=1024",
     "url": "https://velog.io/@ysj7191/HTTP-HTTPS-이해를-해보자",
-    "thumbnail": "https://cdn.discordapp.com/attachments/1432019192764170320/1432019194094030978/HTTP_HTTPS.png?ex=69266b8d&is=69251a0d&hm=39f5aae70170389ecdbb9dee560cd89152c561872b8af0fe7c6f46a81ca6097f&",
+    "thumbnail": "https://cdn.discordapp.com/attachments/1432019192764170320/1432019194094030978/HTTP_HTTPS.png?ex=6927144d&is=6925c2cd&hm=6ec99149c5b11dd40a65c82e14fc16ff5f059582e2d8260dd8e9bc0b2853cb96&",
     "createdAt": "2025-10-26T14:53:01.185000+00:00"
   },
   {
@@ -346,7 +326,7 @@
     "author": "yangjjune",
     "author_avatar": "https://cdn.discordapp.com/avatars/270850849813561344/a03082fe3b47fdc5b4944118982b4844.png?size=1024",
     "url": "https://velog.io/@ysj7191/Github-Actions의-workflow가-다른-workflow를-트리거하지-못할-때",
-    "thumbnail": "https://cdn.discordapp.com/attachments/1438371676533555351/1438371677015904356/cab3a8be0cdfd66e.png?ex=69267583&is=69252403&hm=b12a7a92123bfd0866a94fea1d4cdf0b96c32cf834bb84e977bc89a494310b28&",
+    "thumbnail": "https://cdn.discordapp.com/attachments/1438371676533555351/1438371677015904356/cab3a8be0cdfd66e.png?ex=69271e43&is=6925ccc3&hm=169021220bc619adadc31ed535a7dd31a1a0c257d2b14d2719ca0ff936b6e06c&",
     "createdAt": "2025-11-13T03:35:31.339000+00:00"
   },
   {
@@ -358,26 +338,6 @@
     "url": "https://velog.io/@ysj7191/Serverless한-Discord-포럼-모아서-보기",
     "thumbnail": "https://velog.velcdn.com/images/ysj7191/post/82e84b66-f090-4e84-abf3-d0ce0ec59fa0/image.png",
     "createdAt": "2025-11-09T13:12:29.982000+00:00"
-  },
-  {
-    "id": 1431898602912874587,
-    "title": "inspect.signature 를 사용한 안전한 동적 import 확장하기",
-    "content": "https://onaeonae1.tistory.com/105",
-    "author": ".baekjongwon",
-    "author_avatar": "https://cdn.discordapp.com/avatars/367522644893106176/ff70eeb6cf325843e99c8b6570ad1266.png?size=1024",
-    "url": "https://onaeonae1.tistory.com/105",
-    "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
-    "createdAt": "2025-10-26T06:53:50.324000+00:00"
-  },
-  {
-    "id": 1432010496512491653,
-    "title": "Next.js + MySQL을 활용해서 개인 웹 사이트에 글 포스팅하기",
-    "content": "https://quickchabun.tistory.com/191",
-    "author": "mooseem",
-    "author_avatar": "https://cdn.discordapp.com/avatars/682868389991284756/2823b5e34adc56b4cb17877950cb0c1d.png?size=1024",
-    "url": "https://quickchabun.tistory.com/191",
-    "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
-    "createdAt": "2025-10-26T14:18:27.837000+00:00"
   },
   {
     "id": 1437092574073585764,
@@ -404,10 +364,60 @@
     "title": "내가 한동안 잊고 살았던 것 - \"생각하는 인내심\"",
     "content": "https://gichullimitless.github.io/posts/get-back-engineering-mind/\n\n이번주에 스스로 가장 반성했던 내용에 대해서 회고를 해보았습니다...",
     "author": "gichul_0602",
-    "author_avatar": "https://cdn.discordapp.com/avatars/647996025591824384/0ce2f0dbdf76197b30c7975d48cfea8b.png?size=1024",
+    "author_avatar": "https://cdn.discordapp.com/avatars/647996025591824384/970d62a516f3a9e296734a6564ae04d9.png?size=1024",
     "url": "https://gichullimitless.github.io/posts/get-back-engineering-mind/",
     "thumbnail": "https://gichulLimitLess.github.io/../assets/img/posting-images/20251116/20251116-thumbnail.JPG",
     "createdAt": "2025-11-16T14:58:41.469000+00:00"
+  },
+  {
+    "id": 1432010496512491653,
+    "title": "Next.js + MySQL을 활용해서 개인 웹 사이트에 글 포스팅하기",
+    "content": "https://quickchabun.tistory.com/191",
+    "author": "mooseem",
+    "author_avatar": "https://cdn.discordapp.com/avatars/682868389991284756/2823b5e34adc56b4cb17877950cb0c1d.png?size=1024",
+    "url": "https://quickchabun.tistory.com/191",
+    "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+    "createdAt": "2025-10-26T14:18:27.837000+00:00"
+  },
+  {
+    "id": 1432008846162788447,
+    "title": "react-simplikit의 유용한 hook들 소개",
+    "content": "https://dev.to/algoorgoal/react-simplikityi-yuyonghan-hookdeul-sogae-41me",
+    "author": "byeolchan",
+    "author_avatar": "https://cdn.discordapp.com/avatars/344470501810503682/6648290486e043e8f33a8fcac0760159.png?size=1024",
+    "url": "https://dev.to/algoorgoal/react-simplikityi-yuyonghan-hookdeul-sogae-41me",
+    "thumbnail": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmc1zlj9iiq99u974ew4y.png",
+    "createdAt": "2025-10-26T14:11:54.363000+00:00"
+  },
+  {
+    "id": 1431948071213989918,
+    "title": "AWS가 만들어주는 인증/인가, Cognito",
+    "content": "https://sh1220.tistory.com/6",
+    "author": "goodday1220",
+    "author_avatar": "https://cdn.discordapp.com/avatars/297979038012538900/debf5c32ee17ede80ca2d7a5a2a9e06e.png?size=1024",
+    "url": "https://sh1220.tistory.com/6",
+    "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2Fmbb1I%2FdJMb89dJMCI%2FAAAAAAAAAAAAAAAAAAAAAP8qiYLVidky5Ew9rtowuNuTtRrJ-IVE5SZH8H4XQv6K%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1764514799%26allow_ip%3D%26allow_referer%3D%26signature%3DfDDEW%252BOUKguZgFOHF2XtElsPkKM%253D",
+    "createdAt": "2025-10-26T10:10:24.486000+00:00"
+  },
+  {
+    "id": 1431206270773493822,
+    "title": "옵시디언 MCP + 클로드 데스크탑으로 데일리 기록 편하게 하기",
+    "content": "https://velog.io/@ikseong00/MCP-%EC%98%B5%EC%8B%9C%EB%94%94%EC%96%B8-MCP-Claude-%EC%82%AC%EC%9A%A9%ED%95%B4-%EA%B8%B0%EB%A1%9D-%EC%9E%90%EB%8F%99%ED%99%94%ED%95%98%EA%B8%B0",
+    "author": "ikseongjo",
+    "author_avatar": "https://cdn.discordapp.com/avatars/345205241538674689/68ba93ea2d8b0df2e1ff057f57235389.png?size=1024",
+    "url": "https://velog.io/@ikseong00/MCP-%EC%98%B5%EC%8B%9C%EB%94%94%EC%96%B8-MCP-Claude-%EC%82%AC%EC%9A%A9%ED%95%B4-%EA%B8%B0%EB%A1%9D-%EC%9E%90%EB%8F%99%ED%99%94%ED%95%98%EA%B8%B0",
+    "thumbnail": "https://velog.velcdn.com/images/ikseong00/post/b043e73e-2144-4496-be0f-da318b8a66a8/image.jpg",
+    "createdAt": "2025-10-24T09:02:45.479000+00:00"
+  },
+  {
+    "id": 1431898602912874587,
+    "title": "inspect.signature 를 사용한 안전한 동적 import 확장하기",
+    "content": "https://onaeonae1.tistory.com/105",
+    "author": ".baekjongwon",
+    "author_avatar": "https://cdn.discordapp.com/avatars/367522644893106176/ff70eeb6cf325843e99c8b6570ad1266.png?size=1024",
+    "url": "https://onaeonae1.tistory.com/105",
+    "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+    "createdAt": "2025-10-26T06:53:50.324000+00:00"
   },
   {
     "id": 1431837731134374069,
@@ -434,7 +444,7 @@
     "title": "“와, 너 정말 **핵심**을 찔렀어!” (LLM이 동작하는 방식 간단히 알아보기)",
     "content": "https://gichullimitless.github.io/posts/ai-streaming-method/\n\n2분 남기고 살아남았습니다................😂🥹",
     "author": "gichul_0602",
-    "author_avatar": "https://cdn.discordapp.com/avatars/647996025591824384/0ce2f0dbdf76197b30c7975d48cfea8b.png?size=1024",
+    "author_avatar": "https://cdn.discordapp.com/avatars/647996025591824384/970d62a516f3a9e296734a6564ae04d9.png?size=1024",
     "url": "https://gichullimitless.github.io/posts/ai-streaming-method/",
     "thumbnail": "https://gichulLimitLess.github.io/../assets/img/posting-images/20251019/20251019-thumbnail.jpeg",
     "createdAt": "2025-10-19T14:58:03.094000+00:00"
@@ -476,7 +486,7 @@
     "author": "yangjjune",
     "author_avatar": "https://cdn.discordapp.com/avatars/270850849813561344/a03082fe3b47fdc5b4944118982b4844.png?size=1024",
     "url": "https://velog.io/@ysj7191/까면-깔-수록-괴담만-나오는-이미지-경량화-구현",
-    "thumbnail": "https://cdn.discordapp.com/attachments/1429408659057807420/1429408659351535708/c798844aa612513b.png?ex=692626cd&is=6924d54d&hm=54d2d76e329323bb290ab85f8c5ffe9e54c525c780de5340f5e0f33b0a36acc7&",
+    "thumbnail": "https://cdn.discordapp.com/attachments/1429408659057807420/1429408659351535708/c798844aa612513b.png?ex=6926cf8d&is=69257e0d&hm=067d42b2fd16d09eb9b66706816f85ff8ca8c1c33aad43c3d96a55906d3310ba&",
     "createdAt": "2025-10-19T09:59:41.448000+00:00"
   },
   {
@@ -524,7 +534,7 @@
     "title": "\"멋지게 살아야지\"가 삶의 목표가 될 때",
     "content": "https://gichullimitless.github.io/posts/life-is-like/\n\n처음으로 감성글 및 회고?글.. 레츠고",
     "author": "gichul_0602",
-    "author_avatar": "https://cdn.discordapp.com/avatars/647996025591824384/0ce2f0dbdf76197b30c7975d48cfea8b.png?size=1024",
+    "author_avatar": "https://cdn.discordapp.com/avatars/647996025591824384/970d62a516f3a9e296734a6564ae04d9.png?size=1024",
     "url": "https://gichullimitless.github.io/posts/life-is-like/",
     "thumbnail": "https://gichulLimitLess.github.io/../assets/img/posting-images/20251012/20251012-thumbnail.png",
     "createdAt": "2025-10-12T14:56:10.451000+00:00"
@@ -614,7 +624,7 @@
     "title": "axios 형님, 이제 좀 쉬어요. ky가 왔거든요. (feat. JS/브라우저 비동기 처리 관련 TMI)",
     "content": "살았다…………..\n\nhttps://gichullimitless.github.io/posts/web-dev-asynchronous/",
     "author": "gichul_0602",
-    "author_avatar": "https://cdn.discordapp.com/avatars/647996025591824384/0ce2f0dbdf76197b30c7975d48cfea8b.png?size=1024",
+    "author_avatar": "https://cdn.discordapp.com/avatars/647996025591824384/970d62a516f3a9e296734a6564ae04d9.png?size=1024",
     "url": "https://gichullimitless.github.io/posts/web-dev-asynchronous/",
     "thumbnail": "https://gichulLimitLess.github.io/../assets/img/posting-images/20251005/20251005-thumbnail.png",
     "createdAt": "2025-10-05T14:22:36.115000+00:00"
@@ -796,7 +806,7 @@
     "author": "yangjjune",
     "author_avatar": "https://cdn.discordapp.com/avatars/270850849813561344/a03082fe3b47fdc5b4944118982b4844.png?size=1024",
     "url": "https://velog.io/@ysj7191/털려버린-레디스-외양간이라도-고쳐주기",
-    "thumbnail": "https://cdn.discordapp.com/attachments/1419294333827289288/1419294334125346846/Group_1437.png?ex=6926451a&is=6924f39a&hm=b93509ec1bbd1803c537f7d9cb16187b16b79b615b0288a9614c791d960bc03a&",
+    "thumbnail": "https://cdn.discordapp.com/attachments/1419294333827289288/1419294334125346846/Group_1437.png?ex=6926edda&is=69259c5a&hm=f1377ee6dcf98d2c566a48799038cb4552bf42e55d4e0d834044a974ec61689e&",
     "createdAt": "2025-09-21T12:08:58.398000+00:00"
   },
   {
@@ -864,9 +874,9 @@
     "title": "생성형 AI, 이 친구는 살살 다뤄줘야 해요",
     "content": "https://gichullimitless.github.io/posts/AI-IsMyFriend/",
     "author": "gichul_0602",
-    "author_avatar": "https://cdn.discordapp.com/avatars/647996025591824384/0ce2f0dbdf76197b30c7975d48cfea8b.png?size=1024",
+    "author_avatar": "https://cdn.discordapp.com/avatars/647996025591824384/970d62a516f3a9e296734a6564ae04d9.png?size=1024",
     "url": "https://gichullimitless.github.io/posts/AI-IsMyFriend/",
-    "thumbnail": "https://cdn.discordapp.com/attachments/1418588206382715092/1418588206785495090/20250919-thumbnail_.png?ex=69265678&is=692504f8&hm=dec769fede601954966e22e634035d92bc238fa50d992c980ea4baeabe04273e&",
+    "thumbnail": "https://cdn.discordapp.com/attachments/1418588206382715092/1418588206785495090/20250919-thumbnail_.png?ex=6926ff38&is=6925adb8&hm=3337174c138ba4e3967a668ee1f6671c079689819d543724be177d16ba49661a&",
     "createdAt": "2025-09-19T13:23:04.496000+00:00"
   },
   {
