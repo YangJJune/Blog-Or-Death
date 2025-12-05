@@ -6,7 +6,7 @@
     "author": "yangjjune",
     "author_avatar": "https://cdn.discordapp.com/avatars/270850849813561344/a03082fe3b47fdc5b4944118982b4844.png?size=1024",
     "url": "https://velog.io/@ysj7191/액세스-토큰-LocalStorage에-저장하면-안-되는-이유",
-    "thumbnail": "https://cdn.discordapp.com/attachments/1440259437469241396/1440259520344358962/Frame_9_2.png?ex=69334274&is=6931f0f4&hm=5e67291efe1cf923001908d233f84a8f376634d1b0f79592c09800ff0880fd7e&",
+    "thumbnail": "https://cdn.discordapp.com/attachments/1440259437469241396/1440259520344358962/Frame_9_2.png?ex=6933eb34&is=693299b4&hm=a634bfcba419757545a7eaece384485d7457a2616da6222ff3d3aed2aaca9c6a&",
     "createdAt": "2025-11-18T08:36:48.619000+00:00"
   },
   {
@@ -50,16 +50,6 @@
     "createdAt": "2025-11-12T02:40:14.244000+00:00"
   },
   {
-    "id": 1434578214197395527,
-    "title": "GDGoC Konkuk 테크톡 발표 후기 - MCP, AI Agent란 무엇일까출처: https://turtle-hwan.tistory.com/entry/GDGoC-Konkuk-",
-    "content": "https://turtle-hwan.tistory.com/entry/GDGoC-Konkuk-%ED%85%8C%ED%81%AC%ED%86%A1-%EB%B0%9C%ED%91%9C-%ED%9B%84%EA%B8%B0-MCP-AI-Agent%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C\n\n\n시간 초과로 이번 주차로 넘어가버렷군요..",
-    "author": "turtlehwan",
-    "author_avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
-    "url": "https://turtle-hwan.tistory.com/entry/GDGoC-Konkuk-%ED%85%8C%ED%81%AC%ED%86%A1-%EB%B0%9C%ED%91%9C-%ED%9B%84%EA%B8%B0-MCP-AI-Agent%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C",
-    "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FrjdKw%2FdJMcadmL8z8%2FAAAAAAAAAAAAAAAAAAAAABxQictakYaWYtwTh-UEwP41V4CO9wiE-dYbHZbe3A-t%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1767193199%26allow_ip%3D%26allow_referer%3D%26signature%3DtH9R%252FoCtKhTOFqmLmRwWQsikNdc%253D",
-    "createdAt": "2025-11-02T16:21:39.439000+00:00"
-  },
-  {
     "id": 1439561052416114699,
     "title": "Batch 메시징 설계기",
     "content": "https://onaeonae1.tistory.com/106",
@@ -68,16 +58,6 @@
     "url": "https://onaeonae1.tistory.com/106",
     "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
     "createdAt": "2025-11-16T10:21:40.647000+00:00"
-  },
-  {
-    "id": 1435554568015581185,
-    "title": "오픈소스 기여하는 법",
-    "content": "https://medium.com/@nayounsang722/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%96%B4%EB%96%BB%EA%B2%8C-%EA%B8%B0%EC%97%AC%ED%95%98%EB%82%98%EC%9A%94-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EA%B8%B0%EC%97%AC%ED%95%98%EB%8A%94-%EB%B2%95-793a21ebf2f7\n\n다른 기술적 주제쓰려다가, 이게 더 도움이 될듯 싶어서!!",
-    "author": "nayounsang",
-    "author_avatar": "https://cdn.discordapp.com/embed/avatars/2.png",
-    "url": "https://medium.com/@nayounsang722/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%96%B4%EB%96%BB%EA%B2%8C-%EA%B8%B0%EC%97%AC%ED%95%98%EB%82%98%EC%9A%94-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EA%B8%B0%EC%97%AC%ED%95%98%EB%8A%94-%EB%B2%95-793a21ebf2f7",
-    "thumbnail": null,
-    "createdAt": "2025-11-05T09:01:20.329000+00:00"
   },
   {
     "id": 1438101032432439316,
@@ -166,7 +146,7 @@
     "author": "ikseongjo",
     "author_avatar": "https://cdn.discordapp.com/avatars/345205241538674689/68ba93ea2d8b0df2e1ff057f57235389.png?size=1024",
     "url": "https://velog.io/@ikseong00/2025-ICT-한이음-드림업-프로젝트-활동-후기-장려상-수상",
-    "thumbnail": "https://cdn.discordapp.com/attachments/1442092568950079569/1442092569612783616/KakaoTalk_Photo_2025-11-23-19-00-51.jpeg?ex=6933561d&is=6932049d&hm=7cbd6f0a5a1ceb9fea544d9e94108b1a6df9955cec61d6167e163c9f6a58bb54&",
+    "thumbnail": "https://cdn.discordapp.com/attachments/1442092568950079569/1442092569612783616/KakaoTalk_Photo_2025-11-23-19-00-51.jpeg?ex=6933fedd&is=6932ad5d&hm=c97d4ff36b9a08b60db3f3731f3f43b0f10f4c8f1e64a693fd7eb55502c5e5df&",
     "createdAt": "2025-11-23T10:01:01.222000+00:00"
   },
   {
@@ -326,7 +306,7 @@
     "author": "yangjjune",
     "author_avatar": "https://cdn.discordapp.com/avatars/270850849813561344/a03082fe3b47fdc5b4944118982b4844.png?size=1024",
     "url": "https://velog.io/@ysj7191/Github-Actions의-workflow가-다른-workflow를-트리거하지-못할-때",
-    "thumbnail": "https://cdn.discordapp.com/attachments/1438371676533555351/1438371677015904356/cab3a8be0cdfd66e.png?ex=6933a483&is=69325303&hm=423be402852ee66c6d9b521719576301b7fcbabbb0c8fdf425fe08cf26712f00&",
+    "thumbnail": "https://cdn.discordapp.com/attachments/1438371676533555351/1438371677015904356/cab3a8be0cdfd66e.png?ex=69344d43&is=6932fbc3&hm=7e9fbfcb6f3d12c217472ddbde11754815f85c73861309e7b2105d09f2fc0bc6&",
     "createdAt": "2025-11-13T03:35:31.339000+00:00"
   },
   {
@@ -378,6 +358,26 @@
     "url": "https://gichullimitless.github.io/posts/get-back-engineering-mind/",
     "thumbnail": "https://gichulLimitLess.github.io/../assets/img/posting-images/20251116/20251116-thumbnail.JPG",
     "createdAt": "2025-11-16T14:58:41.469000+00:00"
+  },
+  {
+    "id": 1435554568015581185,
+    "title": "오픈소스 기여하는 법",
+    "content": "https://medium.com/@nayounsang722/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%96%B4%EB%96%BB%EA%B2%8C-%EA%B8%B0%EC%97%AC%ED%95%98%EB%82%98%EC%9A%94-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EA%B8%B0%EC%97%AC%ED%95%98%EB%8A%94-%EB%B2%95-793a21ebf2f7\n\n다른 기술적 주제쓰려다가, 이게 더 도움이 될듯 싶어서!!",
+    "author": "nayounsang",
+    "author_avatar": "https://cdn.discordapp.com/embed/avatars/2.png",
+    "url": "https://medium.com/@nayounsang722/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%96%B4%EB%96%BB%EA%B2%8C-%EA%B8%B0%EC%97%AC%ED%95%98%EB%82%98%EC%9A%94-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EA%B8%B0%EC%97%AC%ED%95%98%EB%8A%94-%EB%B2%95-793a21ebf2f7",
+    "thumbnail": null,
+    "createdAt": "2025-11-05T09:01:20.329000+00:00"
+  },
+  {
+    "id": 1434578214197395527,
+    "title": "GDGoC Konkuk 테크톡 발표 후기 - MCP, AI Agent란 무엇일까출처: https://turtle-hwan.tistory.com/entry/GDGoC-Konkuk-",
+    "content": "https://turtle-hwan.tistory.com/entry/GDGoC-Konkuk-%ED%85%8C%ED%81%AC%ED%86%A1-%EB%B0%9C%ED%91%9C-%ED%9B%84%EA%B8%B0-MCP-AI-Agent%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C\n\n\n시간 초과로 이번 주차로 넘어가버렷군요..",
+    "author": "turtlehwan",
+    "author_avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+    "url": "https://turtle-hwan.tistory.com/entry/GDGoC-Konkuk-%ED%85%8C%ED%81%AC%ED%86%A1-%EB%B0%9C%ED%91%9C-%ED%9B%84%EA%B8%B0-MCP-AI-Agent%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C",
+    "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FrjdKw%2FdJMcadmL8z8%2FAAAAAAAAAAAAAAAAAAAAABxQictakYaWYtwTh-UEwP41V4CO9wiE-dYbHZbe3A-t%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1767193199%26allow_ip%3D%26allow_referer%3D%26signature%3DtH9R%252FoCtKhTOFqmLmRwWQsikNdc%253D",
+    "createdAt": "2025-11-02T16:21:39.439000+00:00"
   },
   {
     "id": 1434539365312499732,
@@ -436,7 +436,7 @@
     "author": "yangjjune",
     "author_avatar": "https://cdn.discordapp.com/avatars/270850849813561344/a03082fe3b47fdc5b4944118982b4844.png?size=1024",
     "url": "https://velog.io/@ysj7191/HTTP-HTTPS-이해를-해보자",
-    "thumbnail": "https://cdn.discordapp.com/attachments/1432019192764170320/1432019194094030978/HTTP_HTTPS.png?ex=69339a8d&is=6932490d&hm=0df65b4323a3e8c29ddb9b43756ff1caf14ccf8022c87373cf254e1667ad9bd3&",
+    "thumbnail": "https://cdn.discordapp.com/attachments/1432019192764170320/1432019194094030978/HTTP_HTTPS.png?ex=6934434d&is=6932f1cd&hm=52502896c00fd0582d19abd2f3aa165052a5ca8fcd30a491d66e3c9358552743&",
     "createdAt": "2025-10-26T14:53:01.185000+00:00"
   },
   {
@@ -566,7 +566,7 @@
     "author": "yangjjune",
     "author_avatar": "https://cdn.discordapp.com/avatars/270850849813561344/a03082fe3b47fdc5b4944118982b4844.png?size=1024",
     "url": "https://velog.io/@ysj7191/까면-깔-수록-괴담만-나오는-이미지-경량화-구현",
-    "thumbnail": "https://cdn.discordapp.com/attachments/1429408659057807420/1429408659351535708/c798844aa612513b.png?ex=693355cd&is=6932044d&hm=d073b7ed3733edc5755bf5bde00c36b460a054480f40c158842d0684f6fe383e&",
+    "thumbnail": "https://cdn.discordapp.com/attachments/1429408659057807420/1429408659351535708/c798844aa612513b.png?ex=6933fe8d&is=6932ad0d&hm=d67cf69904e75fc1115d1c30343a4ff75ece16d7eb942cd0a49ce90966387960&",
     "createdAt": "2025-10-19T09:59:41.448000+00:00"
   },
   {
@@ -886,7 +886,7 @@
     "author": "yangjjune",
     "author_avatar": "https://cdn.discordapp.com/avatars/270850849813561344/a03082fe3b47fdc5b4944118982b4844.png?size=1024",
     "url": "https://velog.io/@ysj7191/털려버린-레디스-외양간이라도-고쳐주기",
-    "thumbnail": "https://cdn.discordapp.com/attachments/1419294333827289288/1419294334125346846/Group_1437.png?ex=6933741a&is=6932229a&hm=b66dbbe9b5f8d2afd23aeb4e71ae054ee526ecd372afbe7402074bb16db6454b&",
+    "thumbnail": "https://cdn.discordapp.com/attachments/1419294333827289288/1419294334125346846/Group_1437.png?ex=69341cda&is=6932cb5a&hm=090b7042202960051cde051dec91fb0e2a71afd3245ee7a59b20c18cdbcada39&",
     "createdAt": "2025-09-21T12:08:58.398000+00:00"
   },
   {
@@ -956,7 +956,7 @@
     "author": "gichul_0602",
     "author_avatar": "https://cdn.discordapp.com/avatars/647996025591824384/1109045511ebc0b3de2f257981d9b71f.png?size=1024",
     "url": "https://gichullimitless.github.io/posts/AI-IsMyFriend/",
-    "thumbnail": "https://cdn.discordapp.com/attachments/1418588206382715092/1418588206785495090/20250919-thumbnail_.png?ex=69338578&is=693233f8&hm=f5b182b1b99478d221dad6fc1772fa3afd163185584d9aa65ae6b70c880686be&",
+    "thumbnail": "https://cdn.discordapp.com/attachments/1418588206382715092/1418588206785495090/20250919-thumbnail_.png?ex=69342e38&is=6932dcb8&hm=b05f98b9aa911901cd837c0e631ca866309393885a534d9a4936635eb7c48b67&",
     "createdAt": "2025-09-19T13:23:04.496000+00:00"
   },
   {
