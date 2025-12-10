@@ -1,23 +1,43 @@
 [
   {
-    "id": 1429483744003231774,
-    "title": "“와, 너 정말 **핵심**을 찔렀어!” (LLM이 동작하는 방식 간단히 알아보기)",
-    "content": "https://gichullimitless.github.io/posts/ai-streaming-method/\n\n2분 남기고 살아남았습니다................😂🥹",
-    "author": "gichul_0602",
-    "author_avatar": "https://cdn.discordapp.com/avatars/647996025591824384/1109045511ebc0b3de2f257981d9b71f.png?size=1024",
-    "url": "https://gichullimitless.github.io/posts/ai-streaming-method/",
-    "thumbnail": "https://gichulLimitLess.github.io/../assets/img/posting-images/20251019/20251019-thumbnail.jpeg",
-    "createdAt": "2025-10-19T14:58:03.094000+00:00"
+    "id": 1440259437469241396,
+    "title": "액세스 토큰, LocalStorage에 저장하면 안 되는 이유",
+    "content": "https://velog.io/@ysj7191/액세스-토큰-LocalStorage에-저장하면-안-되는-이유\n\n근데 이거 직접하려면 리펙토링이 필요한데 그걸 어떻게 할지 잘 모르겠네요..\n유니페스 백엔드 서버의 JWT 인증 부분이 완벽하게 분리가 되어있나 모르겠네요 ㅋㅋ",
+    "author": "yangjjune",
+    "author_avatar": "https://cdn.discordapp.com/avatars/270850849813561344/a03082fe3b47fdc5b4944118982b4844.png?size=1024",
+    "url": "https://velog.io/@ysj7191/액세스-토큰-LocalStorage에-저장하면-안-되는-이유",
+    "thumbnail": "https://cdn.discordapp.com/attachments/1440259437469241396/1440259520344358962/Frame_9_2.png?ex=693a82b4&is=69393134&hm=b752e30e58593a2d064f452717799c75efe71a2ba6b104368346113bcb1bc6ca&",
+    "createdAt": "2025-11-18T08:36:48.619000+00:00"
   },
   {
-    "id": 1437068988596355244,
-    "title": "IT 동아리 면접관 후기",
-    "content": "https://velog.io/@mraz3068/IT-Club-Interviewer-Review",
+    "id": 1444225243207045293,
+    "title": "플랫폼에 의존하는 아키텍처 이대로 괜찮은가",
+    "content": "https://velog.io/@ysj7191/플랫폼에-의존하는-아키텍처-이대로-괜찮은가",
+    "author": "yangjjune",
+    "author_avatar": "https://cdn.discordapp.com/avatars/270850849813561344/a03082fe3b47fdc5b4944118982b4844.png?size=1024",
+    "url": "https://velog.io/@ysj7191/플랫폼에-의존하는-아키텍처-이대로-괜찮은가",
+    "thumbnail": "https://velog.velcdn.com/images/ysj7191/post/12ab2667-dc0f-49ab-a137-c85ca8857ed8/image.png",
+    "createdAt": "2025-11-29T07:15:30.388000+00:00"
+  },
+  {
+    "id": 1442137627489730600,
+    "title": "Metro 적용해보기",
+    "content": "https://velog.io/@mraz3068/Metro-Apply",
     "author": "easyhooon_dev",
     "author_avatar": "https://cdn.discordapp.com/avatars/406710225832247299/8cbfd72e43e517c4be9430514ce7d952.png?size=1024",
-    "url": "https://velog.io/@mraz3068/IT-Club-Interviewer-Review",
-    "thumbnail": "https://velog.velcdn.com/images/mraz3068/post/00a7fe7f-18ab-4bbd-ad54-4a9a44553288/image.png",
-    "createdAt": "2025-11-09T13:19:06.332000+00:00"
+    "url": "https://velog.io/@mraz3068/Metro-Apply",
+    "thumbnail": "https://velog.velcdn.com/images/mraz3068/post/1b7f44af-bca2-4ba3-af4c-c772712ab537/image.avif",
+    "createdAt": "2025-11-23T13:00:04.015000+00:00"
+  },
+  {
+    "id": 1447607674660196507,
+    "title": "GIL with dict",
+    "content": "정리용으로 갑자기 쓴거라 이번주 중 하나 더 작성 예정\n\nhttps://onaeonae1.tistory.com/108",
+    "author": ".baekjongwon",
+    "author_avatar": "https://cdn.discordapp.com/avatars/367522644893106176/ff70eeb6cf325843e99c8b6570ad1266.png?size=1024",
+    "url": "https://onaeonae1.tistory.com/108",
+    "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+    "createdAt": "2025-12-08T15:16:04.889000+00:00"
   },
   {
     "id": 1437995375762870353,
@@ -30,6 +50,16 @@
     "createdAt": "2025-11-12T02:40:14.244000+00:00"
   },
   {
+    "id": 1439561052416114699,
+    "title": "Batch 메시징 설계기",
+    "content": "https://onaeonae1.tistory.com/106",
+    "author": ".baekjongwon",
+    "author_avatar": "https://cdn.discordapp.com/avatars/367522644893106176/ff70eeb6cf325843e99c8b6570ad1266.png?size=1024",
+    "url": "https://onaeonae1.tistory.com/106",
+    "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+    "createdAt": "2025-11-16T10:21:40.647000+00:00"
+  },
+  {
     "id": 1438101032432439316,
     "title": "타입스크립트를 집합관점에서",
     "content": "https://medium.com/@nayounsang722/typescript%EC%99%80-%EC%A7%91%ED%95%A9-0147d6d1b24d",
@@ -40,34 +70,24 @@
     "createdAt": "2025-11-12T09:40:04.757000+00:00"
   },
   {
-    "id": 1438210308622782474,
-    "title": "안드로이드 멀티 모듈 제작기 - 2",
-    "content": "https://velog.io/@ikseong00/Android-%EB%A9%80%ED%8B%B0-%EB%AA%A8%EB%93%88-%EB%8F%84%EC%9E%85%EA%B8%B0-%EC%BB%A8%EB%B2%A4%EC%85%98-%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8-2\n\n미친 양치기 했습니다.\n\n포스트 내용을 자료조사할 떄 하나로 정리된 시퀀스가 없더라구요\n그래서 그런 내용을 인터넷 상에 하나라도 남겨보고자 했습니다.",
-    "author": "ikseongjo",
-    "author_avatar": "https://cdn.discordapp.com/avatars/345205241538674689/68ba93ea2d8b0df2e1ff057f57235389.png?size=1024",
-    "url": "https://velog.io/@ikseong00/Android-%EB%A9%80%ED%8B%B0-%EB%AA%A8%EB%93%88-%EB%8F%84%EC%9E%85%EA%B8%B0-%EC%BB%A8%EB%B2%A4%EC%85%98-%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8-2",
-    "thumbnail": "https://velog.velcdn.com/images/ikseong00/post/e7d0c9aa-e694-4bd3-9292-ca81d2acabb4/image.png",
-    "createdAt": "2025-11-12T16:54:18.231000+00:00"
-  },
-  {
-    "id": 1438371676533555351,
-    "title": "Github Actions의 workflow가 다른 workflow를 트리거하지 못할 때",
-    "content": "https://velog.io/@ysj7191/Github-Actions의-workflow가-다른-workflow를-트리거하지-못할-때",
-    "author": "yangjjune",
-    "author_avatar": "https://cdn.discordapp.com/avatars/270850849813561344/a03082fe3b47fdc5b4944118982b4844.png?size=1024",
-    "url": "https://velog.io/@ysj7191/Github-Actions의-workflow가-다른-workflow를-트리거하지-못할-때",
-    "thumbnail": "https://cdn.discordapp.com/attachments/1438371676533555351/1438371677015904356/cab3a8be0cdfd66e.png?ex=693a3c03&is=6938ea83&hm=6e4c6ed819339e3ef11bdce48d53408c98f7595aab638680f8d782a6830fa23e&",
-    "createdAt": "2025-11-13T03:35:31.339000+00:00"
-  },
-  {
-    "id": 1438780563988156459,
-    "title": "예쁘게 설계하지 말까? 정규화된 구조가 항상 정답은 아닌 이유",
-    "content": "https://medium.com/@yunjeongiya/database-design-debate-normalization-vs-pragmatism-a-real-decision-process-607e04d702d2?postPublishedType=repub\n\n미디엄 들어가면 한국어 글 링크도 있습니닷 ^오^",
-    "author": "yunjeongiya",
-    "author_avatar": "https://cdn.discordapp.com/avatars/699255927575937116/6565e77acc28dd5cefbaea979ab88ea7.png?size=1024",
-    "url": "https://medium.com/@yunjeongiya/database-design-debate-normalization-vs-pragmatism-a-real-decision-process-607e04d702d2?postPublishedType=repub",
+    "id": 1440592179146784788,
+    "title": "jwt 토큰 관리하는 법",
+    "content": "https://medium.com/@nayounsang722/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EC%95%8C%EC%95%84%EC%95%BC%ED%95%A0-jwt-%ED%86%A0%ED%81%B0-%EA%B4%80%EB%A6%AC-3acc02529d90?postPublishedType=initial\n\n<@270850849813561344> 겹쳤다ㅋㅋㅋㅋ",
+    "author": "nayounsang",
+    "author_avatar": "https://cdn.discordapp.com/embed/avatars/2.png",
+    "url": "https://medium.com/@nayounsang722/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EC%95%8C%EC%95%84%EC%95%BC%ED%95%A0-jwt-%ED%86%A0%ED%81%B0-%EA%B4%80%EB%A6%AC-3acc02529d90?postPublishedType=initial",
     "thumbnail": null,
-    "createdAt": "2025-11-14T06:40:17.705000+00:00"
+    "createdAt": "2025-11-19T06:39:00.417000+00:00"
+  },
+  {
+    "id": 1439596452580950070,
+    "title": "Nginx Minimal Image 보안 자동 분석",
+    "content": "https://sh1220.tistory.com/8",
+    "author": "goodday1220",
+    "author_avatar": "https://cdn.discordapp.com/avatars/297979038012538900/debf5c32ee17ede80ca2d7a5a2a9e06e.png?size=1024",
+    "url": "https://sh1220.tistory.com/8",
+    "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FbAGCP4%2FdJMcacVMDEt%2FAAAAAAAAAAAAAAAAAAAAAGZ_VYXcomJ6k_PKwyQv7LBJONLG4l0krMkhKNewXKA4%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1767193199%26allow_ip%3D%26allow_referer%3D%26signature%3DXDAPQKazBe8TCapcMKhBD2rs9K8%253D",
+    "createdAt": "2025-11-16T12:42:20.704000+00:00"
   },
   {
     "id": 1439164059965591563,
@@ -90,24 +110,74 @@
     "createdAt": "2025-11-16T08:37:45.400000+00:00"
   },
   {
-    "id": 1439561052416114699,
-    "title": "Batch 메시징 설계기",
-    "content": "https://onaeonae1.tistory.com/106",
-    "author": ".baekjongwon",
-    "author_avatar": "https://cdn.discordapp.com/avatars/367522644893106176/ff70eeb6cf325843e99c8b6570ad1266.png?size=1024",
-    "url": "https://onaeonae1.tistory.com/106",
-    "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
-    "createdAt": "2025-11-16T10:21:40.647000+00:00"
+    "id": 1439948326740037755,
+    "title": "멀티테넌시에서 데이터 유출 막는 4-Tier 보안 아키텍처 (2/5)",
+    "content": "https://medium.com/@yunjeongiya/4-tier-security-to-prevent-data-leaks-in-multi-tenancy-820ae704288b",
+    "author": "yunjeongiya",
+    "author_avatar": "https://cdn.discordapp.com/avatars/699255927575937116/6565e77acc28dd5cefbaea979ab88ea7.png?size=1024",
+    "url": "https://medium.com/@yunjeongiya/4-tier-security-to-prevent-data-leaks-in-multi-tenancy-820ae704288b",
+    "thumbnail": null,
+    "createdAt": "2025-11-17T12:00:34.041000+00:00"
   },
   {
-    "id": 1439596452580950070,
-    "title": "Nginx Minimal Image 보안 자동 분석",
-    "content": "https://sh1220.tistory.com/8",
-    "author": "goodday1220",
-    "author_avatar": "https://cdn.discordapp.com/avatars/297979038012538900/debf5c32ee17ede80ca2d7a5a2a9e06e.png?size=1024",
-    "url": "https://sh1220.tistory.com/8",
-    "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FbAGCP4%2FdJMcacVMDEt%2FAAAAAAAAAAAAAAAAAAAAAGZ_VYXcomJ6k_PKwyQv7LBJONLG4l0krMkhKNewXKA4%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1767193199%26allow_ip%3D%26allow_referer%3D%26signature%3DXDAPQKazBe8TCapcMKhBD2rs9K8%253D",
-    "createdAt": "2025-11-16T12:42:20.704000+00:00"
+    "id": 1444640454812635166,
+    "title": "우리 Context API도 아껴주세요.",
+    "content": "https://gichullimitless.github.io/posts/context-api-explore/\n\nRedux, Zustand 등의 전역 상태 관리 툴에 밀려 상대적으로 천대(?)받고 있는 Context API를 탐구해 보았읍니다.",
+    "author": "gichul_0602",
+    "author_avatar": "https://cdn.discordapp.com/avatars/647996025591824384/1109045511ebc0b3de2f257981d9b71f.png?size=1024",
+    "url": "https://gichullimitless.github.io/posts/context-api-explore/",
+    "thumbnail": "https://gichulLimitLess.github.io/../assets/img/posting-images/20251130/20251130-thumbnail.jpeg",
+    "createdAt": "2025-11-30T10:45:24.549000+00:00"
+  },
+  {
+    "id": 1442092568950079569,
+    "title": "2025 한이음 드림업 엑스포 후기",
+    "content": "https://velog.io/@ikseong00/2025-ICT-한이음-드림업-프로젝트-활동-후기-장려상-수상",
+    "author": "ikseongjo",
+    "author_avatar": "https://cdn.discordapp.com/avatars/345205241538674689/68ba93ea2d8b0df2e1ff057f57235389.png?size=1024",
+    "url": "https://velog.io/@ikseong00/2025-ICT-한이음-드림업-프로젝트-활동-후기-장려상-수상",
+    "thumbnail": "https://cdn.discordapp.com/attachments/1442092568950079569/1442092569612783616/KakaoTalk_Photo_2025-11-23-19-00-51.jpeg?ex=693a965d&is=693944dd&hm=288c0feb4ef73420f73cbc94e717a9c63f5e015540b81f6b8be291fdb6d63c2e&",
+    "createdAt": "2025-11-23T10:01:01.222000+00:00"
+  },
+  {
+    "id": 1442800532380057690,
+    "title": "[Kotlin] Array 와 List 의 equality 비교 방법의 차이",
+    "content": "https://velog.io/@ikseong00/Kotlin-List-vs-Array-equals",
+    "author": "ikseongjo",
+    "author_avatar": "https://cdn.discordapp.com/avatars/345205241538674689/68ba93ea2d8b0df2e1ff057f57235389.png?size=1024",
+    "url": "https://velog.io/@ikseong00/Kotlin-List-vs-Array-equals",
+    "thumbnail": "https://images.velog.io/velog.png",
+    "createdAt": "2025-11-25T08:54:12.857000+00:00"
+  },
+  {
+    "id": 1443270809757155439,
+    "title": "Play Integrity API 구현 with 서버",
+    "content": "https://velog.io/@mraz3068/Play-Integrity-API-Implementation-with-Server\n\n사내에서 보안 취약점 검사를 받았는데 관련해서 Android 앱내에서 조치한 내용 작성해봤습니다.",
+    "author": "easyhooon_dev",
+    "author_avatar": "https://cdn.discordapp.com/avatars/406710225832247299/8cbfd72e43e517c4be9430514ce7d952.png?size=1024",
+    "url": "https://velog.io/@mraz3068/Play-Integrity-API-Implementation-with-Server",
+    "thumbnail": "https://velog.velcdn.com/images/mraz3068/post/80a73842-6a67-4efa-b125-d52964fbb9f8/image.svg",
+    "createdAt": "2025-11-26T16:02:55.721000+00:00"
+  },
+  {
+    "id": 1437068988596355244,
+    "title": "IT 동아리 면접관 후기",
+    "content": "https://velog.io/@mraz3068/IT-Club-Interviewer-Review",
+    "author": "easyhooon_dev",
+    "author_avatar": "https://cdn.discordapp.com/avatars/406710225832247299/8cbfd72e43e517c4be9430514ce7d952.png?size=1024",
+    "url": "https://velog.io/@mraz3068/IT-Club-Interviewer-Review",
+    "thumbnail": "https://velog.velcdn.com/images/mraz3068/post/00a7fe7f-18ab-4bbd-ad54-4a9a44553288/image.png",
+    "createdAt": "2025-11-09T13:19:06.332000+00:00"
+  },
+  {
+    "id": 1438780563988156459,
+    "title": "예쁘게 설계하지 말까? 정규화된 구조가 항상 정답은 아닌 이유",
+    "content": "https://medium.com/@yunjeongiya/database-design-debate-normalization-vs-pragmatism-a-real-decision-process-607e04d702d2?postPublishedType=repub\n\n미디엄 들어가면 한국어 글 링크도 있습니닷 ^오^",
+    "author": "yunjeongiya",
+    "author_avatar": "https://cdn.discordapp.com/avatars/699255927575937116/6565e77acc28dd5cefbaea979ab88ea7.png?size=1024",
+    "url": "https://medium.com/@yunjeongiya/database-design-debate-normalization-vs-pragmatism-a-real-decision-process-607e04d702d2?postPublishedType=repub",
+    "thumbnail": null,
+    "createdAt": "2025-11-14T06:40:17.705000+00:00"
   },
   {
     "id": 1439628031558815917,
@@ -120,64 +190,54 @@
     "createdAt": "2025-11-16T14:47:49.719000+00:00"
   },
   {
-    "id": 1439630765196316784,
-    "title": "내가 한동안 잊고 살았던 것 - \"생각하는 인내심\"",
-    "content": "https://gichullimitless.github.io/posts/get-back-engineering-mind/\n\n이번주에 스스로 가장 반성했던 내용에 대해서 회고를 해보았습니다...",
-    "author": "gichul_0602",
-    "author_avatar": "https://cdn.discordapp.com/avatars/647996025591824384/1109045511ebc0b3de2f257981d9b71f.png?size=1024",
-    "url": "https://gichullimitless.github.io/posts/get-back-engineering-mind/",
-    "thumbnail": "https://gichulLimitLess.github.io/../assets/img/posting-images/20251116/20251116-thumbnail.JPG",
-    "createdAt": "2025-11-16T14:58:41.469000+00:00"
-  },
-  {
-    "id": 1439948326740037755,
-    "title": "멀티테넌시에서 데이터 유출 막는 4-Tier 보안 아키텍처 (2/5)",
-    "content": "https://medium.com/@yunjeongiya/4-tier-security-to-prevent-data-leaks-in-multi-tenancy-820ae704288b",
-    "author": "yunjeongiya",
-    "author_avatar": "https://cdn.discordapp.com/avatars/699255927575937116/6565e77acc28dd5cefbaea979ab88ea7.png?size=1024",
-    "url": "https://medium.com/@yunjeongiya/4-tier-security-to-prevent-data-leaks-in-multi-tenancy-820ae704288b",
-    "thumbnail": null,
-    "createdAt": "2025-11-17T12:00:34.041000+00:00"
-  },
-  {
-    "id": 1440259437469241396,
-    "title": "액세스 토큰, LocalStorage에 저장하면 안 되는 이유",
-    "content": "https://velog.io/@ysj7191/액세스-토큰-LocalStorage에-저장하면-안-되는-이유\n\n근데 이거 직접하려면 리펙토링이 필요한데 그걸 어떻게 할지 잘 모르겠네요..\n유니페스 백엔드 서버의 JWT 인증 부분이 완벽하게 분리가 되어있나 모르겠네요 ㅋㅋ",
-    "author": "yangjjune",
-    "author_avatar": "https://cdn.discordapp.com/avatars/270850849813561344/a03082fe3b47fdc5b4944118982b4844.png?size=1024",
-    "url": "https://velog.io/@ysj7191/액세스-토큰-LocalStorage에-저장하면-안-되는-이유",
-    "thumbnail": "https://cdn.discordapp.com/attachments/1440259437469241396/1440259520344358962/Frame_9_2.png?ex=6939d9f4&is=69388874&hm=8ffba525c58d5519d81a034f9e5ba280c4685d2446c79ef41e29dba3eba43c68&",
-    "createdAt": "2025-11-18T08:36:48.619000+00:00"
-  },
-  {
-    "id": 1440592179146784788,
-    "title": "jwt 토큰 관리하는 법",
-    "content": "https://medium.com/@nayounsang722/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EC%95%8C%EC%95%84%EC%95%BC%ED%95%A0-jwt-%ED%86%A0%ED%81%B0-%EA%B4%80%EB%A6%AC-3acc02529d90?postPublishedType=initial\n\n<@270850849813561344> 겹쳤다ㅋㅋㅋㅋ",
-    "author": "nayounsang",
-    "author_avatar": "https://cdn.discordapp.com/embed/avatars/2.png",
-    "url": "https://medium.com/@nayounsang722/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EC%95%8C%EC%95%84%EC%95%BC%ED%95%A0-jwt-%ED%86%A0%ED%81%B0-%EA%B4%80%EB%A6%AC-3acc02529d90?postPublishedType=initial",
-    "thumbnail": null,
-    "createdAt": "2025-11-19T06:39:00.417000+00:00"
-  },
-  {
-    "id": 1442092568950079569,
-    "title": "2025 한이음 드림업 엑스포 후기",
-    "content": "https://velog.io/@ikseong00/2025-ICT-한이음-드림업-프로젝트-활동-후기-장려상-수상",
+    "id": 1438210308622782474,
+    "title": "안드로이드 멀티 모듈 제작기 - 2",
+    "content": "https://velog.io/@ikseong00/Android-%EB%A9%80%ED%8B%B0-%EB%AA%A8%EB%93%88-%EB%8F%84%EC%9E%85%EA%B8%B0-%EC%BB%A8%EB%B2%A4%EC%85%98-%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8-2\n\n미친 양치기 했습니다.\n\n포스트 내용을 자료조사할 떄 하나로 정리된 시퀀스가 없더라구요\n그래서 그런 내용을 인터넷 상에 하나라도 남겨보고자 했습니다.",
     "author": "ikseongjo",
     "author_avatar": "https://cdn.discordapp.com/avatars/345205241538674689/68ba93ea2d8b0df2e1ff057f57235389.png?size=1024",
-    "url": "https://velog.io/@ikseong00/2025-ICT-한이음-드림업-프로젝트-활동-후기-장려상-수상",
-    "thumbnail": "https://cdn.discordapp.com/attachments/1442092568950079569/1442092569612783616/KakaoTalk_Photo_2025-11-23-19-00-51.jpeg?ex=6939ed9d&is=69389c1d&hm=d636cdd4d3d499616372be2de003a84c70342c6dc7d4d346dd373bed7e13e2a8&",
-    "createdAt": "2025-11-23T10:01:01.222000+00:00"
+    "url": "https://velog.io/@ikseong00/Android-%EB%A9%80%ED%8B%B0-%EB%AA%A8%EB%93%88-%EB%8F%84%EC%9E%85%EA%B8%B0-%EC%BB%A8%EB%B2%A4%EC%85%98-%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8-2",
+    "thumbnail": "https://velog.velcdn.com/images/ikseong00/post/e7d0c9aa-e694-4bd3-9292-ca81d2acabb4/image.png",
+    "createdAt": "2025-11-12T16:54:18.231000+00:00"
   },
   {
-    "id": 1442137627489730600,
-    "title": "Metro 적용해보기",
-    "content": "https://velog.io/@mraz3068/Metro-Apply",
-    "author": "easyhooon_dev",
-    "author_avatar": "https://cdn.discordapp.com/avatars/406710225832247299/8cbfd72e43e517c4be9430514ce7d952.png?size=1024",
-    "url": "https://velog.io/@mraz3068/Metro-Apply",
-    "thumbnail": "https://velog.velcdn.com/images/mraz3068/post/1b7f44af-bca2-4ba3-af4c-c772712ab537/image.avif",
-    "createdAt": "2025-11-23T13:00:04.015000+00:00"
+    "id": 1443251661421412362,
+    "title": "토스 Frontend Fundamentals 1회 모의고사 후기",
+    "content": "https://quickchabun.tistory.com/194",
+    "author": "mooseem",
+    "author_avatar": "https://cdn.discordapp.com/avatars/682868389991284756/2823b5e34adc56b4cb17877950cb0c1d.png?size=1024",
+    "url": "https://quickchabun.tistory.com/194",
+    "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+    "createdAt": "2025-11-26T14:46:50.402000+00:00"
+  },
+  {
+    "id": 1429483744003231774,
+    "title": "“와, 너 정말 **핵심**을 찔렀어!” (LLM이 동작하는 방식 간단히 알아보기)",
+    "content": "https://gichullimitless.github.io/posts/ai-streaming-method/\n\n2분 남기고 살아남았습니다................😂🥹",
+    "author": "gichul_0602",
+    "author_avatar": "https://cdn.discordapp.com/avatars/647996025591824384/1109045511ebc0b3de2f257981d9b71f.png?size=1024",
+    "url": "https://gichullimitless.github.io/posts/ai-streaming-method/",
+    "thumbnail": "https://gichulLimitLess.github.io/../assets/img/posting-images/20251019/20251019-thumbnail.jpeg",
+    "createdAt": "2025-10-19T14:58:03.094000+00:00"
+  },
+  {
+    "id": 1443192151436689541,
+    "title": "IDLE한 상태에서 배운 점",
+    "content": "기술적인 내용은 전혀 없지만 일단 작성\n\nhttps://onaeonae1.tistory.com/107",
+    "author": ".baekjongwon",
+    "author_avatar": "https://cdn.discordapp.com/avatars/367522644893106176/ff70eeb6cf325843e99c8b6570ad1266.png?size=1024",
+    "url": "https://onaeonae1.tistory.com/107",
+    "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+    "createdAt": "2025-11-26T10:50:22.116000+00:00"
+  },
+  {
+    "id": 1447150006959079509,
+    "title": "Nav3 기본 개념 살펴보기",
+    "content": "새로운 기술 탐구는 정말 힘들고 재밌군요\nhttps://velog.io/@ikseong00/posts",
+    "author": "ikseongjo",
+    "author_avatar": "https://cdn.discordapp.com/avatars/345205241538674689/68ba93ea2d8b0df2e1ff057f57235389.png?size=1024",
+    "url": "https://velog.io/@ikseong00/posts",
+    "thumbnail": null,
+    "createdAt": "2025-12-07T08:57:28.406000+00:00"
   },
   {
     "id": 1442167561402974483,
@@ -200,54 +260,24 @@
     "createdAt": "2025-11-24T03:15:56.040000+00:00"
   },
   {
-    "id": 1442800532380057690,
-    "title": "[Kotlin] Array 와 List 의 equality 비교 방법의 차이",
-    "content": "https://velog.io/@ikseong00/Kotlin-List-vs-Array-equals",
-    "author": "ikseongjo",
-    "author_avatar": "https://cdn.discordapp.com/avatars/345205241538674689/68ba93ea2d8b0df2e1ff057f57235389.png?size=1024",
-    "url": "https://velog.io/@ikseong00/Kotlin-List-vs-Array-equals",
-    "thumbnail": "https://images.velog.io/velog.png",
-    "createdAt": "2025-11-25T08:54:12.857000+00:00"
+    "id": 1446063025374367825,
+    "title": "기술적인 주제말고 철학적인 주제를 한번 쥐어짰는데",
+    "content": "그냥 기술얘기만 해야지 싶습니다\nhttps://medium.com/@nayounsang722/%EB%A7%88%EC%9D%B8%EB%93%9C%EC%85%8B%EC%9D%98-%ED%95%A8%EC%A0%95-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%96%89%EB%B3%B5%ED%95%B4%EC%A7%88%EA%B9%8C-a2df8ea13a3a",
+    "author": "nayounsang",
+    "author_avatar": "https://cdn.discordapp.com/embed/avatars/2.png",
+    "url": "https://medium.com/@nayounsang722/%EB%A7%88%EC%9D%B8%EB%93%9C%EC%85%8B%EC%9D%98-%ED%95%A8%EC%A0%95-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%96%89%EB%B3%B5%ED%95%B4%EC%A7%88%EA%B9%8C-a2df8ea13a3a",
+    "thumbnail": null,
+    "createdAt": "2025-12-04T08:58:11.801000+00:00"
   },
   {
-    "id": 1443192151436689541,
-    "title": "IDLE한 상태에서 배운 점",
-    "content": "기술적인 내용은 전혀 없지만 일단 작성\n\nhttps://onaeonae1.tistory.com/107",
-    "author": ".baekjongwon",
-    "author_avatar": "https://cdn.discordapp.com/avatars/367522644893106176/ff70eeb6cf325843e99c8b6570ad1266.png?size=1024",
-    "url": "https://onaeonae1.tistory.com/107",
-    "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
-    "createdAt": "2025-11-26T10:50:22.116000+00:00"
-  },
-  {
-    "id": 1443251661421412362,
-    "title": "토스 Frontend Fundamentals 1회 모의고사 후기",
-    "content": "https://quickchabun.tistory.com/194",
-    "author": "mooseem",
-    "author_avatar": "https://cdn.discordapp.com/avatars/682868389991284756/2823b5e34adc56b4cb17877950cb0c1d.png?size=1024",
-    "url": "https://quickchabun.tistory.com/194",
-    "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
-    "createdAt": "2025-11-26T14:46:50.402000+00:00"
-  },
-  {
-    "id": 1443270809757155439,
-    "title": "Play Integrity API 구현 with 서버",
-    "content": "https://velog.io/@mraz3068/Play-Integrity-API-Implementation-with-Server\n\n사내에서 보안 취약점 검사를 받았는데 관련해서 Android 앱내에서 조치한 내용 작성해봤습니다.",
-    "author": "easyhooon_dev",
-    "author_avatar": "https://cdn.discordapp.com/avatars/406710225832247299/8cbfd72e43e517c4be9430514ce7d952.png?size=1024",
-    "url": "https://velog.io/@mraz3068/Play-Integrity-API-Implementation-with-Server",
-    "thumbnail": "https://velog.velcdn.com/images/mraz3068/post/80a73842-6a67-4efa-b125-d52964fbb9f8/image.svg",
-    "createdAt": "2025-11-26T16:02:55.721000+00:00"
-  },
-  {
-    "id": 1444225243207045293,
-    "title": "플랫폼에 의존하는 아키텍처 이대로 괜찮은가",
-    "content": "https://velog.io/@ysj7191/플랫폼에-의존하는-아키텍처-이대로-괜찮은가",
+    "id": 1438371676533555351,
+    "title": "Github Actions의 workflow가 다른 workflow를 트리거하지 못할 때",
+    "content": "https://velog.io/@ysj7191/Github-Actions의-workflow가-다른-workflow를-트리거하지-못할-때",
     "author": "yangjjune",
     "author_avatar": "https://cdn.discordapp.com/avatars/270850849813561344/a03082fe3b47fdc5b4944118982b4844.png?size=1024",
-    "url": "https://velog.io/@ysj7191/플랫폼에-의존하는-아키텍처-이대로-괜찮은가",
-    "thumbnail": "https://velog.velcdn.com/images/ysj7191/post/12ab2667-dc0f-49ab-a137-c85ca8857ed8/image.png",
-    "createdAt": "2025-11-29T07:15:30.388000+00:00"
+    "url": "https://velog.io/@ysj7191/Github-Actions의-workflow가-다른-workflow를-트리거하지-못할-때",
+    "thumbnail": "https://cdn.discordapp.com/attachments/1438371676533555351/1438371677015904356/cab3a8be0cdfd66e.png?ex=693ae4c3&is=69399343&hm=d7dcd9cee66f5805ffdaf881a0f920a2b241f62199c60d8a3170c1ae73ff6702&",
+    "createdAt": "2025-11-13T03:35:31.339000+00:00"
   },
   {
     "id": 1444322638343307437,
@@ -260,16 +290,6 @@
     "createdAt": "2025-11-29T13:42:31.198000+00:00"
   },
   {
-    "id": 1444640454812635166,
-    "title": "우리 Context API도 아껴주세요.",
-    "content": "https://gichullimitless.github.io/posts/context-api-explore/\n\nRedux, Zustand 등의 전역 상태 관리 툴에 밀려 상대적으로 천대(?)받고 있는 Context API를 탐구해 보았읍니다.",
-    "author": "gichul_0602",
-    "author_avatar": "https://cdn.discordapp.com/avatars/647996025591824384/1109045511ebc0b3de2f257981d9b71f.png?size=1024",
-    "url": "https://gichullimitless.github.io/posts/context-api-explore/",
-    "thumbnail": "https://gichulLimitLess.github.io/../assets/img/posting-images/20251130/20251130-thumbnail.jpeg",
-    "createdAt": "2025-11-30T10:45:24.549000+00:00"
-  },
-  {
     "id": 1444652251485306910,
     "title": "여러 캠퍼스-여러 역할 JWT 설계와 ThreadLocal 안전성",
     "content": "https://medium.com/@yunjeongiya/multi-campus-multi-role-jwt-design-and-threadlocal-safety-4cda269b377a",
@@ -278,16 +298,6 @@
     "url": "https://medium.com/@yunjeongiya/multi-campus-multi-role-jwt-design-and-threadlocal-safety-4cda269b377a",
     "thumbnail": null,
     "createdAt": "2025-11-30T11:32:17.095000+00:00"
-  },
-  {
-    "id": 1446063025374367825,
-    "title": "기술적인 주제말고 철학적인 주제를 한번 쥐어짰는데",
-    "content": "그냥 기술얘기만 해야지 싶습니다\nhttps://medium.com/@nayounsang722/%EB%A7%88%EC%9D%B8%EB%93%9C%EC%85%8B%EC%9D%98-%ED%95%A8%EC%A0%95-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%96%89%EB%B3%B5%ED%95%B4%EC%A7%88%EA%B9%8C-a2df8ea13a3a",
-    "author": "nayounsang",
-    "author_avatar": "https://cdn.discordapp.com/embed/avatars/2.png",
-    "url": "https://medium.com/@nayounsang722/%EB%A7%88%EC%9D%B8%EB%93%9C%EC%85%8B%EC%9D%98-%ED%95%A8%EC%A0%95-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%96%89%EB%B3%B5%ED%95%B4%EC%A7%88%EA%B9%8C-a2df8ea13a3a",
-    "thumbnail": null,
-    "createdAt": "2025-12-04T08:58:11.801000+00:00"
   },
   {
     "id": 1447145964551933972,
@@ -300,24 +310,24 @@
     "createdAt": "2025-12-07T08:41:24.621000+00:00"
   },
   {
-    "id": 1447150006959079509,
-    "title": "Nav3 기본 개념 살펴보기",
-    "content": "새로운 기술 탐구는 정말 힘들고 재밌군요\nhttps://velog.io/@ikseong00/posts",
+    "id": 1448327327879532657,
+    "title": "왜 아무 Dispatcher 나 쓰면 안될까 (CPU-bound vs IO-bound)",
+    "content": "https://velog.io/@ikseong00/Android-Dispatchers-Default-IO\n\n역시 시험공부말고는 다 재밌네요",
     "author": "ikseongjo",
     "author_avatar": "https://cdn.discordapp.com/avatars/345205241538674689/68ba93ea2d8b0df2e1ff057f57235389.png?size=1024",
-    "url": "https://velog.io/@ikseong00/posts",
-    "thumbnail": null,
-    "createdAt": "2025-12-07T08:57:28.406000+00:00"
+    "url": "https://velog.io/@ikseong00/Android-Dispatchers-Default-IO",
+    "thumbnail": "https://velog.velcdn.com/images/ikseong00/post/5cf7cc63-903c-4d09-a94c-8eacca95cd48/image.png",
+    "createdAt": "2025-12-10T14:55:43.587000+00:00"
   },
   {
-    "id": 1447607674660196507,
-    "title": "GIL with dict",
-    "content": "정리용으로 갑자기 쓴거라 이번주 중 하나 더 작성 예정\n\nhttps://onaeonae1.tistory.com/108",
-    "author": ".baekjongwon",
-    "author_avatar": "https://cdn.discordapp.com/avatars/367522644893106176/ff70eeb6cf325843e99c8b6570ad1266.png?size=1024",
-    "url": "https://onaeonae1.tistory.com/108",
-    "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
-    "createdAt": "2025-12-08T15:16:04.889000+00:00"
+    "id": 1439630765196316784,
+    "title": "내가 한동안 잊고 살았던 것 - \"생각하는 인내심\"",
+    "content": "https://gichullimitless.github.io/posts/get-back-engineering-mind/\n\n이번주에 스스로 가장 반성했던 내용에 대해서 회고를 해보았습니다...",
+    "author": "gichul_0602",
+    "author_avatar": "https://cdn.discordapp.com/avatars/647996025591824384/1109045511ebc0b3de2f257981d9b71f.png?size=1024",
+    "url": "https://gichullimitless.github.io/posts/get-back-engineering-mind/",
+    "thumbnail": "https://gichulLimitLess.github.io/../assets/img/posting-images/20251116/20251116-thumbnail.JPG",
+    "createdAt": "2025-11-16T14:58:41.469000+00:00"
   },
   {
     "id": 1437097159399833752,
@@ -386,7 +396,7 @@
     "author": "mooseem",
     "author_avatar": "https://cdn.discordapp.com/avatars/682868389991284756/2823b5e34adc56b4cb17877950cb0c1d.png?size=1024",
     "url": "https://quickchabun.tistory.com/192",
-    "thumbnail": null,
+    "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
     "createdAt": "2025-11-08T07:10:32.442000+00:00"
   },
   {
@@ -466,7 +476,7 @@
     "author": "yangjjune",
     "author_avatar": "https://cdn.discordapp.com/avatars/270850849813561344/a03082fe3b47fdc5b4944118982b4844.png?size=1024",
     "url": "https://velog.io/@ysj7191/HTTP-HTTPS-이해를-해보자",
-    "thumbnail": "https://cdn.discordapp.com/attachments/1432019192764170320/1432019194094030978/HTTP_HTTPS.png?ex=693a320d&is=6938e08d&hm=56a09a2c69e442346cf653f9c82ab14904ac2fbda6d344f3192732a4f86038ae&",
+    "thumbnail": "https://cdn.discordapp.com/attachments/1432019192764170320/1432019194094030978/HTTP_HTTPS.png?ex=693adacd&is=6939894d&hm=12ff517cf89e3fe9c70c5c55158e088e24f693e75765f51c1bbd573fff46405b&",
     "createdAt": "2025-10-26T14:53:01.185000+00:00"
   },
   {
@@ -596,7 +606,7 @@
     "author": "yangjjune",
     "author_avatar": "https://cdn.discordapp.com/avatars/270850849813561344/a03082fe3b47fdc5b4944118982b4844.png?size=1024",
     "url": "https://velog.io/@ysj7191/까면-깔-수록-괴담만-나오는-이미지-경량화-구현",
-    "thumbnail": "https://cdn.discordapp.com/attachments/1429408659057807420/1429408659351535708/c798844aa612513b.png?ex=6939ed4d&is=69389bcd&hm=f220c64997b2dd2dac89c5f3480799111c6a83a6a2f3ce2652e6271a13cad58b&",
+    "thumbnail": "https://cdn.discordapp.com/attachments/1429408659057807420/1429408659351535708/c798844aa612513b.png?ex=693a960d&is=6939448d&hm=13bce58316ae6b2c683380dbefe845fd9711dd58b51bb16bbf80e413c7eddb3a&",
     "createdAt": "2025-10-19T09:59:41.448000+00:00"
   },
   {
@@ -916,7 +926,7 @@
     "author": "yangjjune",
     "author_avatar": "https://cdn.discordapp.com/avatars/270850849813561344/a03082fe3b47fdc5b4944118982b4844.png?size=1024",
     "url": "https://velog.io/@ysj7191/털려버린-레디스-외양간이라도-고쳐주기",
-    "thumbnail": "https://cdn.discordapp.com/attachments/1419294333827289288/1419294334125346846/Group_1437.png?ex=693a0b9a&is=6938ba1a&hm=3193ff3476ff464916f155a4457aee69f66d7a7a98b560ceca2c23851ef0fd3b&",
+    "thumbnail": "https://cdn.discordapp.com/attachments/1419294333827289288/1419294334125346846/Group_1437.png?ex=693ab45a&is=693962da&hm=0b34fd67a1aaf9577ff8e881a6de0ca9f56bc9cbb9abe731aba461def138d818&",
     "createdAt": "2025-09-21T12:08:58.398000+00:00"
   },
   {
@@ -986,7 +996,7 @@
     "author": "gichul_0602",
     "author_avatar": "https://cdn.discordapp.com/avatars/647996025591824384/1109045511ebc0b3de2f257981d9b71f.png?size=1024",
     "url": "https://gichullimitless.github.io/posts/AI-IsMyFriend/",
-    "thumbnail": "https://cdn.discordapp.com/attachments/1418588206382715092/1418588206785495090/20250919-thumbnail_.png?ex=693a1cf8&is=6938cb78&hm=69bb6f1b75b803eb545a3cb10377cbb93b9abc23fd9799b08570fbbbda971cbf&",
+    "thumbnail": "https://cdn.discordapp.com/attachments/1418588206382715092/1418588206785495090/20250919-thumbnail_.png?ex=693ac5b8&is=69397438&hm=019a9e3e90d83d2eb53e1f30c871e1bfbff0ee2eb994c183f20e6816105218c0&",
     "createdAt": "2025-09-19T13:23:04.496000+00:00"
   },
   {
