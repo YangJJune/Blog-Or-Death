@@ -17,8 +17,9 @@ function App() {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        // public/data/posts.json 경로로 fetch 요청
-        const response = await fetch("./forum-posts.json");
+        // API에서 데이터 가져오기
+        const baseUrl = import.meta.env.VITE_API_BASE_URL;
+        const response = await fetch(`${baseUrl}/blog-or-death`);
 
         if (!response.ok) {
           throw new Error(`데이터 로딩 실패: ${response.status}`);
