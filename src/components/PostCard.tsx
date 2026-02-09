@@ -1,15 +1,18 @@
 import React from "react";
-import type { Post } from "../types/post";
+import type { Post, ViewMode } from "../types/post";
 import { formatRelativeTime } from "../utils/dateFormat";
 
 interface PostCardProps {
   post: Post;
+  viewMode?: ViewMode;
 }
 
-const PostCard: React.FC<PostCardProps> = ({ post }) => {
+const PostCard: React.FC<PostCardProps> = ({ post, viewMode = "grid" }) => {
+  const isFeed = viewMode === "feed";
+
   return (
     <article
-      className="post-card"
+      className={`post-card ${isFeed ? "post-card--feed" : ""}`}
       onClick={() => window.open(post.url, "_blank")}
     >
       {post.thumbnail && (

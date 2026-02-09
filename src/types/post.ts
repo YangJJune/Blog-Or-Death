@@ -14,3 +14,12 @@ export interface Post {
 export type TabType = "trending" | "curated" | "recent" | "feed";
 
 export type ThemeMode = "light" | "dark";
+
+export type ViewMode = "grid" | "feed";
+
+export interface DiscordUser {
+  id: string;
+  username: string;
+  global_name: string | null;
+  avatar: string | null;
+}

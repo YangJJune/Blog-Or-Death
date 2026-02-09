@@ -25,3 +25,4 @@ dist-ssr
 scripts/data/forum-posts.json
 .claude/settings.local.json
 PR_SUMMARY.md
+.env
