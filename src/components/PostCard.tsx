@@ -1,14 +1,41 @@
-import React from "react";
+import React, { useState } from "react";
 import type { Post, ViewMode } from "../types/post";
 import { formatRelativeTime } from "../utils/dateFormat";
+import { toggleLike } from "../hooks/usePostInteraction";
 
 interface PostCardProps {
   post: Post;
   viewMode?: ViewMode;
+  onOpenComments?: (postId: number) => void;
 }
 
-const PostCard: React.FC<PostCardProps> = ({ post, viewMode = "grid" }) => {
+const PostCard: React.FC<PostCardProps> = ({
+  post,
+  viewMode = "grid",
+  onOpenComments,
+}) => {
   const isFeed = viewMode === "feed";
+  const [liked, setLiked] = useState(false);
+  const [likeCount, setLikeCount] = useState(post.likes ?? 0);
+
+  const handleLike = async (e: React.MouseEvent) => {
+    e.stopPropagation();
+    const result = await toggleLike(post.id);
+    if (result) {
+      const isNowLiked = (result.liked as boolean) ?? !liked;
+      setLiked(isNowLiked);
+      if (result.likeCount !== undefined) {
+        setLikeCount(result.likeCount as number);
+      } else {
+        setLikeCount((prev) => (isNowLiked ? prev + 1 : prev - 1));
+      }
+    }
+  };
+
+  const handleComments = (e: React.MouseEvent) => {
+    e.stopPropagation();
+    onOpenComments?.(post.id);
+  };
 
   return (
     <article
@@ -27,12 +54,6 @@ const PostCard: React.FC<PostCardProps> = ({ post, viewMode = "grid" }) => {
           <span className="post-date">
             {formatRelativeTime(post.createdAt)}
           </span>
-          {post.comments !== undefined && (
-            <>
-              <span className="separator">·</span>
-              <span className="post-comments">{post.comments}개의 댓글</span>
-            </>
-          )}
         </div>
       </div>
       <div className="post-footer">
@@ -46,11 +67,17 @@ const PostCard: React.FC<PostCardProps> = ({ post, viewMode = "grid" }) => {
             by <strong>{post.author}</strong>
           </span>
         </div>
-        {post.likes !== undefined && (
-          <div className="post-stats">
-            <span className="likes">♥ {post.likes}</span>
-          </div>
-        )}
+        <div className="post-stats">
+          <button
+            className={`btn-like ${liked ? "liked" : ""}`}
+            onClick={handleLike}
+          >
+            {liked ? "♥" : "♡"} {likeCount}
+          </button>
+          <button className="btn-comment" onClick={handleComments}>
+            💬 {post.comments ?? 0}
+          </button>
+        </div>
       </div>
     </article>
   );

@@ -1,4 +1,5 @@
 import React from "react";
+import { useNavigate } from "react-router-dom";
 import type { TabType, ThemeMode, DiscordUser } from "../types/post";
 import { getAvatarUrl } from "../hooks/useDiscordAuth";
 
@@ -21,6 +22,8 @@ const Header: React.FC<HeaderProps> = ({
   onDiscordLogin,
   onDiscordLogout,
 }) => {
+  const navigate = useNavigate();
+
   const tabs: { id: TabType; label: string }[] = [
     { id: "trending", label: "트렌딩" },
     { id: "curated", label: "큐레이션" },
@@ -32,7 +35,7 @@ const Header: React.FC<HeaderProps> = ({
     <header className="header">
       <div className="header-container">
         <div className="logo">
-          <h1>블로그 안 쓰면 죽는 모임</h1>
+          <h1 onClick={() => navigate("/")}>블로그 안 쓰면 죽는 모임</h1>
         </div>
         <nav className="nav">
           {tabs.map((tab) => (
@@ -52,14 +55,19 @@ const Header: React.FC<HeaderProps> = ({
           <button className="btn-search">🔍</button>
           {discordUser ? (
             <div className="user-menu">
-              <img
-                src={getAvatarUrl(discordUser)}
-                alt={discordUser.global_name || discordUser.username}
-                className="user-avatar"
-              />
-              <span className="user-name">
-                {discordUser.global_name || discordUser.username}
-              </span>
+              <div
+                className="user-profile"
+                onClick={() => navigate("/blog-url")}
+              >
+                <img
+                  src={getAvatarUrl(discordUser)}
+                  alt={discordUser.global_name || discordUser.username}
+                  className="user-avatar"
+                />
+                <span className="user-name">
+                  {discordUser.global_name || discordUser.username}
+                </span>
+              </div>
               <button className="btn-logout" onClick={onDiscordLogout}>
                 로그아웃
               </button>

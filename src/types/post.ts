@@ -23,3 +23,18 @@ export interface DiscordUser {
   global_name: string | null;
   avatar: string | null;
 }
+
+export type BlogPlatform = "medium" | "velog" | "devto" | "tistory" | "github_pages";
+
+export interface MemberResponse {
+  discordId: string;
+  blogUrl: string;
+}
+
+export interface Comment {
+  id: number;
+  author: string;
+  authorAvatar: string;
+  content: string;
+  createdAt: string;
+}
